@@ -1,0 +1,1001 @@
+Order ID,Order Date,Category,Region,Sales,Profit,Quantity,Customer ID,Sub-Category
+CA-1000,2020-01-01,Technology,Central,650.22,-112.56,6,CUST-1127,Accessories
+CA-1001,2020-01-02,Furniture,Central,296.81,227.87,5,CUST-1313,Bookcases
+CA-1002,2020-01-03,Technology,Central,652.31,-86.41,5,CUST-1331,Accessories
+CA-1003,2020-01-04,Technology,Central,562.99,218.52,1,CUST-1149,Copiers
+CA-1004,2020-01-05,Furniture,South,790.85,-60.36,5,CUST-1453,Bookcases
+CA-1005,2020-01-06,Furniture,East,151.63,121.44,2,CUST-1035,Tables
+CA-1006,2020-01-07,Technology,South,772.98,147.08,7,CUST-1684,Accessories
+CA-1007,2020-01-08,Office Supplies,South,564.2,56.33,3,CUST-1419,Labels
+CA-1008,2020-01-09,Technology,Central,964.84,-47.34,4,CUST-1021,Copiers
+CA-1009,2020-01-10,Technology,West,374.78,-93.68,3,CUST-1205,Accessories
+CA-1010,2020-01-11,Technology,West,650.99,-183.41,3,CUST-1638,Phones
+CA-1011,2020-01-12,Technology,South,935.43,-48.03,4,CUST-1847,Accessories
+CA-1012,2020-01-13,Furniture,South,147.38,126.58,5,CUST-1956,Bookcases
+CA-1013,2020-01-14,Technology,Central,940.37,269.15,1,CUST-1355,Accessories
+CA-1014,2020-01-15,Office Supplies,South,703.49,235.6,4,CUST-1439,Binders
+CA-1015,2020-01-16,Furniture,Central,114.45,183.03,8,CUST-1728,Tables
+CA-1016,2020-01-17,Office Supplies,West,335.92,194.22,7,CUST-1095,Labels
+CA-1017,2020-01-18,Office Supplies,West,722.76,132.49,9,CUST-1928,Paper
+CA-1018,2020-01-19,Office Supplies,East,113.98,-69.86,5,CUST-1940,Labels
+CA-1019,2020-01-20,Office Supplies,West,603.06,253.6,4,CUST-1163,Labels
+CA-1020,2020-01-21,Furniture,South,378.59,135.37,8,CUST-1147,Tables
+CA-1021,2020-01-22,Furniture,West,639.87,80.22,9,CUST-1529,Bookcases
+CA-1022,2020-01-23,Office Supplies,Central,93.45,-144.51,7,CUST-1293,Labels
+CA-1023,2020-01-24,Office Supplies,West,877.96,23.53,7,CUST-1194,Binders
+CA-1024,2020-01-25,Furniture,East,974.81,30.18,5,CUST-1662,Chairs
+CA-1025,2020-01-26,Furniture,West,970.43,232.28,4,CUST-1479,Chairs
+CA-1026,2020-01-27,Furniture,Central,762.17,73.32,1,CUST-1876,Chairs
+CA-1027,2020-01-28,Technology,Central,173.58,-9.8,7,CUST-1122,Copiers
+CA-1028,2020-01-29,Technology,South,770.35,288.4,1,CUST-1399,Accessories
+CA-1029,2020-01-30,Technology,West,73.36,-144.64,1,CUST-1698,Copiers
+CA-1030,2020-01-31,Office Supplies,Central,71.02,11.27,5,CUST-1964,Labels
+CA-1031,2020-02-01,Technology,East,,-178.99,9,CUST-1451,Copiers
+CA-1032,2020-02-02,Office Supplies,South,514.21,169.95,6,CUST-1660,Paper
+CA-1033,2020-02-03,Office Supplies,East,781.89,259.04,3,CUST-1103,Binders
+CA-1034,2020-02-04,Technology,West,699.13,-59.98,3,CUST-1754,Copiers
+CA-1035,2020-02-05,Office Supplies,West,473.61,229.17,7,CUST-1461,Labels
+CA-1036,2020-02-06,Technology,West,309.95,-53.89,6,CUST-1742,Phones
+CA-1037,2020-02-07,Technology,South,997.27,255.39,9,CUST-1990,Copiers
+CA-1038,2020-02-08,Furniture,Central,454.87,176.98,6,CUST-1717,Tables
+CA-1039,2020-02-09,Technology,South,478.82,202.45,5,CUST-1709,Copiers
+CA-1040,2020-02-10,Furniture,East,205.44,-191.0,7,CUST-1395,Bookcases
+CA-1041,2020-02-11,Technology,South,805.07,281.41,1,CUST-1911,Phones
+CA-1042,2020-02-12,Technology,East,709.0,163.34,7,CUST-1336,Copiers
+CA-1043,2020-02-13,Furniture,South,259.73,-47.62,3,CUST-1598,Bookcases
+CA-1044,2020-02-14,Furniture,Central,128.26,214.7,9,CUST-1141,Tables
+CA-1045,2020-02-15,Technology,East,696.47,-59.24,6,CUST-1316,Phones
+CA-1046,2020-02-16,Office Supplies,West,671.79,236.38,9,CUST-1710,Binders
+CA-1047,2020-02-17,Furniture,West,309.6,-143.71,5,CUST-1557,Tables
+CA-1048,2020-02-18,Office Supplies,South,953.32,151.84,7,CUST-1799,Labels
+CA-1049,2020-02-19,Office Supplies,West,193.5,70.35,4,CUST-1526,Binders
+CA-1050,2020-02-20,Office Supplies,East,460.72,-151.73,7,CUST-1555,Binders
+CA-1051,2020-02-21,Furniture,West,946.44,-79.05,1,CUST-1400,Bookcases
+CA-1052,2020-02-22,Office Supplies,Central,448.74,-193.8,7,CUST-1680,Labels
+CA-1053,2020-02-23,Furniture,Central,656.6,34.38,8,CUST-1309,Chairs
+CA-1054,2020-02-24,Office Supplies,South,427.71,-49.37,5,CUST-1494,Labels
+CA-1055,2020-02-25,Technology,East,310.5,99.18,2,CUST-1555,Phones
+CA-1056,2020-02-26,Technology,Central,984.78,-51.38,5,CUST-1609,Copiers
+CA-1057,2020-02-27,Furniture,Central,438.87,-50.04,6,CUST-1772,Bookcases
+CA-1058,2020-02-28,Technology,East,899.39,171.6,2,CUST-1108,Accessories
+CA-1059,2020-02-29,Technology,West,268.46,-175.93,6,CUST-1794,Copiers
+CA-1060,2020-03-01,Office Supplies,West,252.45,251.45,6,CUST-1371,Paper
+CA-1061,2020-03-02,Furniture,South,79.58,226.13,1,CUST-1854,Bookcases
+CA-1062,2020-03-03,Office Supplies,West,669.08,133.9,1,CUST-1615,Binders
+CA-1063,2020-03-04,Office Supplies,East,400.1,96.61,3,CUST-1767,Binders
+CA-1064,2020-03-05,Office Supplies,Central,871.14,246.15,3,CUST-1890,Labels
+CA-1065,2020-03-06,Office Supplies,West,499.55,-107.33,4,CUST-1205,Labels
+CA-1066,2020-03-07,Office Supplies,South,969.78,-160.52,2,CUST-1846,Binders
+CA-1067,2020-03-08,Office Supplies,West,226.25,-80.24,9,CUST-1042,Labels
+CA-1068,2020-03-09,Office Supplies,East,875.19,197.29,7,CUST-1864,Paper
+CA-1069,2020-03-10,Furniture,South,787.77,-182.66,7,CUST-1244,Tables
+CA-1070,2020-03-11,Technology,West,782.38,91.4,6,CUST-1286,Accessories
+CA-1071,2020-03-12,Office Supplies,South,852.54,297.72,3,CUST-1354,Paper
+CA-1072,2020-03-13,Office Supplies,East,772.97,227.85,6,CUST-1784,Paper
+CA-1073,2020-03-14,Office Supplies,Central,644.91,60.72,8,CUST-1475,Labels
+CA-1074,2020-03-15,Office Supplies,East,174.68,-168.18,8,CUST-1082,Labels
+CA-1075,2020-03-16,Office Supplies,East,80.9,215.69,9,CUST-1109,Paper
+CA-1076,2020-03-17,Office Supplies,East,924.81,99.49,1,CUST-1949,Labels
+CA-1077,2020-03-18,Technology,East,635.82,-142.53,1,CUST-1189,Copiers
+CA-1078,2020-03-19,Technology,Central,806.71,-153.07,3,CUST-1982,Accessories
+CA-1079,2020-03-20,Office Supplies,Central,507.45,254.81,3,CUST-1799,Labels
+CA-1080,2020-03-21,Technology,South,161.44,134.6,8,CUST-1935,Copiers
+CA-1081,2020-03-22,Furniture,West,168.93,214.64,1,CUST-1908,Bookcases
+CA-1082,2020-03-23,Office Supplies,Central,701.29,239.49,2,CUST-1250,Paper
+CA-1083,2020-03-24,Furniture,Central,458.79,85.89,2,CUST-1723,Bookcases
+CA-1084,2020-03-25,Furniture,West,240.5,58.72,3,CUST-1290,Chairs
+CA-1085,2020-03-26,Office Supplies,Central,517.01,15.21,6,CUST-1644,Binders
+CA-1086,2020-03-27,Technology,East,3277.8380838819767,1501.86590979701,1,CUST-1200,Accessories
+CA-1087,2020-03-28,Furniture,East,602.87,17.3,2,CUST-1796,Chairs
+CA-1088,2020-03-29,Office Supplies,West,305.54,186.94,1,CUST-1325,Paper
+CA-1089,2020-03-30,Furniture,South,807.68,100.96,5,CUST-1510,Chairs
+CA-1090,2020-03-31,Furniture,South,344.84,246.26,7,CUST-1408,Chairs
+CA-1091,2020-04-01,Furniture,West,482.46,21.69,8,CUST-1606,Chairs
+CA-1092,2020-04-02,Furniture,West,61.04,103.54,1,CUST-1789,Tables
+CA-1093,2020-04-03,Technology,East,118.82,115.65,7,CUST-1961,Accessories
+CA-1094,2020-04-04,Furniture,South,422.87,95.85,5,CUST-1940,Bookcases
+CA-1095,2020-04-05,Furniture,Central,505.94,151.32,1,CUST-1836,Tables
+CA-1096,2020-04-06,Furniture,East,620.02,-81.28,3,CUST-1507,Chairs
+CA-1097,2020-04-07,Technology,West,327.08,56.18,7,CUST-1730,Phones
+CA-1098,2020-04-08,Furniture,South,710.23,-147.89,1,CUST-1600,Tables
+CA-1099,2020-04-09,Furniture,Central,867.12,-7.74,7,CUST-1071,Tables
+CA-1100,2020-04-10,Technology,Central,790.86,43.83,5,CUST-1246,Accessories
+CA-1101,2020-04-11,Technology,East,87.64,126.11,1,CUST-1640,Copiers
+CA-1102,2020-04-12,Technology,South,506.48,275.27,1,CUST-1723,Phones
+CA-1103,2020-04-13,Furniture,South,149.68,100.33,1,CUST-1939,Bookcases
+CA-1104,2020-04-14,Technology,West,279.94,171.8,9,CUST-1854,Copiers
+CA-1105,2020-04-15,Technology,South,987.33,53.13,3,CUST-1607,Phones
+CA-1106,2020-04-16,Furniture,South,185.37,117.05,5,CUST-1586,Chairs
+CA-1107,2020-04-17,Technology,East,523.94,-164.53,9,CUST-1934,Accessories
+CA-1108,2020-04-18,Furniture,South,637.25,-72.8,6,CUST-1565,Tables
+CA-1109,2020-04-19,Office Supplies,Central,717.34,-19.07,9,CUST-1343,Labels
+CA-1110,2020-04-20,Technology,East,581.67,36.25,8,CUST-1970,Accessories
+CA-1111,2020-04-21,Office Supplies,East,59.28,-177.18,8,CUST-1924,Paper
+CA-1112,2020-04-22,Furniture,West,360.14,-129.99,1,CUST-1053,Chairs
+CA-1113,2020-04-23,Technology,South,541.83,-61.59,9,CUST-1729,Phones
+CA-1114,2020-04-24,Furniture,West,133.47,285.77,6,CUST-1527,Tables
+CA-1115,2020-04-25,Office Supplies,Central,383.1,-34.33,9,CUST-1610,Binders
+CA-1116,2020-04-26,Furniture,East,81.54,41.02,3,CUST-1531,Tables
+CA-1117,2020-04-27,Technology,East,124.65,-101.95,3,CUST-1557,Phones
+CA-1118,2020-04-28,Technology,East,427.08,105.39,6,CUST-1962,Phones
+CA-1119,2020-04-29,Office Supplies,Central,176.08,-59.66,9,CUST-1192,Binders
+CA-1120,2020-04-30,Furniture,Central,589.16,-96.5,7,CUST-1894,Chairs
+CA-1121,2020-05-01,Technology,West,704.99,58.29,3,CUST-1057,Accessories
+CA-1122,2020-05-02,Office Supplies,West,810.56,-197.25,3,CUST-1436,Labels
+CA-1123,2020-05-03,Technology,West,240.14,-196.17,2,CUST-1110,Phones
+CA-1124,2020-05-04,Technology,South,209.11,-90.47,9,CUST-1128,Accessories
+CA-1125,2020-05-05,Furniture,East,149.34,-181.64,3,CUST-1848,Tables
+CA-1126,2020-05-06,Technology,East,654.61,-145.99,5,CUST-1705,Phones
+CA-1127,2020-05-07,Furniture,West,721.15,-30.57,9,CUST-1924,Bookcases
+CA-1128,2020-05-08,Technology,East,80.01,201.29,8,CUST-1851,Phones
+CA-1129,2020-05-09,Office Supplies,West,939.4,86.02,2,CUST-1325,Paper
+CA-1130,2020-05-10,Technology,South,99.37,56.33,3,CUST-1007,Copiers
+CA-1131,2020-05-11,Furniture,South,564.23,-53.26,2,CUST-1028,Tables
+CA-1132,2020-05-12,Furniture,Central,723.61,265.88,8,CUST-1111,Chairs
+CA-1133,2020-05-13,Office Supplies,South,877.42,,6,CUST-1946,Labels
+CA-1134,2020-05-14,Technology,West,728.38,-156.45,6,CUST-1672,Accessories
+CA-1135,2020-05-15,Technology,South,811.64,108.53,9,CUST-1130,Accessories
+CA-1136,2020-05-16,Office Supplies,Central,372.48,-143.08,8,CUST-1187,Paper
+CA-1137,2020-05-17,Technology,East,824.08,-27.39,4,CUST-1674,Phones
+CA-1138,2020-05-18,Technology,West,126.11,53.71,4,CUST-1708,Copiers
+CA-1139,2020-05-19,Furniture,East,900.08,237.11,9,CUST-1474,Chairs
+CA-1140,2020-05-20,Technology,Central,570.21,46.77,1,CUST-1363,Phones
+CA-1141,2020-05-21,Technology,Central,,151.13,2,CUST-1203,Phones
+CA-1142,2020-05-22,Office Supplies,Central,479.7,296.41,2,CUST-1211,Labels
+CA-1143,2020-05-23,Office Supplies,East,661.4,-134.26,6,CUST-1620,Binders
+CA-1144,2020-05-24,Furniture,East,550.08,-62.63,4,CUST-1275,Chairs
+CA-1145,2020-05-25,Technology,East,745.01,-2.71,3,CUST-1072,Phones
+CA-1146,2020-05-26,Technology,East,127.55,10.91,3,CUST-1678,Phones
+CA-1147,2020-05-27,Technology,Central,107.33,5.51,3,CUST-1771,Accessories
+CA-1148,2020-05-28,Furniture,Central,284.75,253.81,6,CUST-1242,Chairs
+CA-1149,2020-05-29,Furniture,West,201.57,157.02,8,CUST-1786,Tables
+CA-1150,2020-05-30,Office Supplies,West,878.19,103.95,7,CUST-1101,Binders
+CA-1151,2020-05-31,Furniture,East,258.25,-45.31,4,CUST-1986,Bookcases
+CA-1152,2020-06-01,Technology,South,977.07,211.9,4,CUST-1684,Accessories
+CA-1153,2020-06-02,Technology,South,370.05,277.53,2,CUST-1170,Accessories
+CA-1154,2020-06-03,Furniture,Central,223.01,210.6,1,CUST-1652,Tables
+CA-1155,2020-06-04,Technology,Central,800.21,-199.22,9,CUST-1908,Accessories
+CA-1156,2020-06-05,Technology,Central,675.77,118.2,2,CUST-1187,Copiers
+CA-1157,2020-06-06,Furniture,West,523.29,-174.43,8,CUST-1440,Chairs
+CA-1158,2020-06-07,Furniture,West,577.6,-71.2,9,CUST-1085,Tables
+CA-1159,2020-06-08,Technology,Central,733.24,-170.24,4,CUST-1475,Copiers
+CA-1160,2020-06-09,Technology,Central,267.03,101.9,8,CUST-1051,Accessories
+CA-1161,2020-06-10,Technology,Central,996.52,143.29,9,CUST-1110,Phones
+CA-1162,2020-06-11,Office Supplies,South,976.05,-142.76,5,CUST-1948,Paper
+CA-1163,2020-06-12,Office Supplies,West,667.81,-8.08,7,CUST-1876,Labels
+CA-1164,2020-06-13,Office Supplies,South,239.57,,4,CUST-1853,Binders
+CA-1165,2020-06-14,Furniture,South,696.22,-15.47,1,CUST-1042,Bookcases
+CA-1166,2020-06-15,Office Supplies,Central,118.59,-139.49,3,CUST-1210,Binders
+CA-1167,2020-06-16,Furniture,Central,79.12,9.47,5,CUST-1967,Chairs
+CA-1168,2020-06-17,Furniture,East,294.8,175.59,3,CUST-1199,Chairs
+CA-1169,2020-06-18,Office Supplies,East,489.49,-164.5,7,CUST-1809,Paper
+CA-1170,2020-06-19,Office Supplies,South,874.86,-159.91,9,CUST-1857,Labels
+CA-1171,2020-06-20,Office Supplies,West,740.81,-22.61,6,CUST-1751,Labels
+CA-1172,2020-06-21,Technology,Central,755.57,270.86,1,CUST-1626,Copiers
+CA-1173,2020-06-22,Office Supplies,Central,454.22,134.29,7,CUST-1025,Binders
+CA-1174,2020-06-23,Technology,South,378.64,139.33,3,CUST-1918,Accessories
+CA-1175,2020-06-24,Furniture,East,402.49,-19.04,5,CUST-1298,Chairs
+CA-1176,2020-06-25,Technology,West,988.27,96.83,4,CUST-1076,Copiers
+CA-1177,2020-06-26,Office Supplies,East,88.1,-194.93,5,CUST-1923,Paper
+CA-1178,2020-06-27,Furniture,East,873.68,118.05,5,CUST-1136,Tables
+CA-1179,2020-06-28,Furniture,East,599.74,256.64,6,CUST-1019,Tables
+CA-1180,2020-06-29,Furniture,East,466.68,106.29,6,CUST-1439,Bookcases
+CA-1181,2020-06-30,Technology,Central,738.99,236.85,8,CUST-1210,Accessories
+CA-1182,2020-07-01,Office Supplies,Central,512.34,161.99,8,CUST-1751,Paper
+CA-1183,2020-07-02,Furniture,East,879.75,-139.72,9,CUST-1550,Chairs
+CA-1184,2020-07-03,Furniture,West,905.67,251.23,8,CUST-1434,Chairs
+CA-1185,2020-07-04,Furniture,South,450.63,-166.78,2,CUST-1779,Tables
+CA-1186,2020-07-05,Technology,West,312.99,66.98,1,CUST-1206,Accessories
+CA-1187,2020-07-06,Technology,West,612.73,-128.93,2,CUST-1990,Phones
+CA-1188,2020-07-07,Office Supplies,West,916.75,-194.15,2,CUST-1438,Binders
+CA-1189,2020-07-08,Technology,East,250.13,11.02,3,CUST-1973,Phones
+CA-1190,2020-07-09,Furniture,Central,641.82,-52.48,7,CUST-1778,Bookcases
+CA-1191,2020-07-10,Office Supplies,West,649.98,43.0,2,CUST-1665,Labels
+CA-1192,2020-07-11,Furniture,East,746.46,88.6,1,CUST-1041,Chairs
+CA-1193,2020-07-12,Furniture,West,174.99,-178.13,6,CUST-1410,Tables
+CA-1194,2020-07-13,Technology,West,730.03,-138.5,9,CUST-1522,Phones
+CA-1195,2020-07-14,Office Supplies,East,913.58,79.32,3,CUST-1805,Labels
+CA-1196,2020-07-15,Technology,Central,220.7,-28.42,6,CUST-1609,Accessories
+CA-1197,2020-07-16,Technology,Central,275.67,164.59,3,CUST-1426,Copiers
+CA-1198,2020-07-17,Office Supplies,South,972.83,126.15,1,CUST-1274,Paper
+CA-1199,2020-07-18,Furniture,East,221.93,222.8,5,CUST-1447,Bookcases
+CA-1200,2020-07-19,Furniture,South,861.67,146.25,4,CUST-1901,Tables
+CA-1201,2020-07-20,Office Supplies,South,517.66,14.97,7,CUST-1941,Paper
+CA-1202,2020-07-21,Furniture,South,284.87,136.48,6,CUST-1883,Tables
+CA-1203,2020-07-22,Office Supplies,Central,877.21,-62.31,7,CUST-1741,Paper
+CA-1204,2020-07-23,Office Supplies,East,473.04,,5,CUST-1368,Labels
+CA-1205,2020-07-24,Technology,South,539.08,194.49,4,CUST-1937,Copiers
+CA-1206,2020-07-25,Office Supplies,East,391.27,23.21,7,CUST-1219,Paper
+CA-1207,2020-07-26,Technology,East,613.3,199.19,7,CUST-1576,Accessories
+CA-1208,2020-07-27,Furniture,Central,205.35,211.21,6,CUST-1866,Bookcases
+CA-1209,2020-07-28,Furniture,South,421.53,228.78,8,CUST-1231,Tables
+CA-1210,2020-07-29,Furniture,South,970.94,258.32,4,CUST-1327,Tables
+CA-1211,2020-07-30,Furniture,East,295.23,15.49,5,CUST-1442,Tables
+CA-1212,2020-07-31,Technology,West,673.9,-40.57,4,CUST-1051,Phones
+CA-1213,2020-08-01,Furniture,Central,358.93,91.1,1,CUST-1885,Tables
+CA-1214,2020-08-02,Office Supplies,Central,784.8,-14.41,8,CUST-1942,Binders
+CA-1215,2020-08-03,Office Supplies,Central,174.33,100.54,1,CUST-1375,Paper
+CA-1216,2020-08-04,Office Supplies,Central,971.33,152.79,5,CUST-1262,Labels
+CA-1217,2020-08-05,Technology,South,481.1,144.2,6,CUST-1266,Phones
+CA-1218,2020-08-06,Furniture,South,274.25,-12.72,6,CUST-1358,Chairs
+CA-1219,2020-08-07,Furniture,West,119.82,-116.57,5,CUST-1316,Tables
+CA-1220,2020-08-08,Furniture,Central,211.27,15.26,3,CUST-1323,Tables
+CA-1221,2020-08-09,Technology,Central,543.79,-128.7,5,CUST-1920,Phones
+CA-1222,2020-08-10,Office Supplies,East,370.15,,8,CUST-1907,Labels
+CA-1223,2020-08-11,Office Supplies,South,837.44,-27.06,2,CUST-1665,Labels
+CA-1224,2020-08-12,Furniture,Central,459.34,-122.77,6,CUST-1869,Tables
+CA-1225,2020-08-13,Office Supplies,West,286.28,-187.28,9,CUST-1877,Labels
+CA-1226,2020-08-14,Office Supplies,West,636.29,122.91,8,CUST-1651,Labels
+CA-1227,2020-08-15,Technology,South,721.44,118.45,8,CUST-1938,Accessories
+CA-1228,2020-08-16,Technology,West,208.69,-29.7,8,CUST-1562,Copiers
+CA-1229,2020-08-17,Technology,West,209.24,-164.14,7,CUST-1628,Accessories
+CA-1230,2020-08-18,Technology,South,84.84,4.81,8,CUST-1420,Phones
+CA-1231,2020-08-19,Furniture,Central,749.58,-44.39,6,CUST-1045,Tables
+CA-1232,2020-08-20,Technology,Central,680.61,138.56,2,CUST-1820,Phones
+CA-1233,2020-08-21,Office Supplies,West,500.9,102.89,2,CUST-1599,Binders
+CA-1234,2020-08-22,Furniture,West,851.96,-17.7,8,CUST-1719,Bookcases
+CA-1235,2020-08-23,Office Supplies,Central,815.39,-91.05,1,CUST-1888,Labels
+CA-1236,2020-08-24,Office Supplies,South,606.09,294.02,6,CUST-1268,Labels
+CA-1237,2020-08-25,Office Supplies,West,874.86,27.0,6,CUST-1600,Paper
+CA-1238,2020-08-26,Technology,East,245.55,144.14,4,CUST-1380,Copiers
+CA-1239,2020-08-27,Technology,South,156.32,-129.72,3,CUST-1117,Phones
+CA-1240,2020-08-28,Furniture,West,306.26,42.79,3,CUST-1565,Bookcases
+CA-1241,2020-08-29,Furniture,West,104.23,-186.23,1,CUST-1952,Bookcases
+CA-1242,2020-08-30,Technology,East,554.61,52.73,3,CUST-1115,Accessories
+CA-1243,2020-08-31,Office Supplies,East,939.78,282.01,4,CUST-1629,Paper
+CA-1244,2020-09-01,Furniture,Central,87.38,-7.9,5,CUST-1259,Chairs
+CA-1245,2020-09-02,Technology,South,166.0,-180.5,3,CUST-1074,Accessories
+CA-1246,2020-09-03,Technology,South,479.59,-184.52,6,CUST-1479,Copiers
+CA-1247,2020-09-04,Technology,Central,937.18,-6.01,5,CUST-1304,Accessories
+CA-1248,2020-09-05,Office Supplies,South,350.35,-119.99,3,CUST-1006,Binders
+CA-1249,2020-09-06,Technology,South,531.87,-188.32,6,CUST-1365,Copiers
+CA-1250,2020-09-07,Technology,South,89.49,178.11,6,CUST-1633,Phones
+CA-1251,2020-09-08,Technology,South,190.93,29.26,8,CUST-1522,Accessories
+CA-1252,2020-09-09,Technology,South,987.3,-55.38,2,CUST-1347,Accessories
+CA-1253,2020-09-10,Furniture,East,966.86,250.04,1,CUST-1437,Chairs
+CA-1254,2020-09-11,Furniture,South,54.69,-141.93,4,CUST-1214,Bookcases
+CA-1255,2020-09-12,Technology,East,954.22,277.96,7,CUST-1428,Accessories
+CA-1256,2020-09-13,Office Supplies,South,657.16,-43.02,3,CUST-1790,Paper
+CA-1257,2020-09-14,Furniture,Central,874.52,244.2,3,CUST-1497,Bookcases
+CA-1258,2020-09-15,Technology,West,482.0,101.47,5,CUST-1539,Accessories
+CA-1259,2020-09-16,Furniture,East,3277.8380838819767,1501.86590979701,5,CUST-1746,Chairs
+CA-1260,2020-09-17,Furniture,South,514.4,292.01,3,CUST-1366,Tables
+CA-1261,2020-09-18,Office Supplies,Central,683.52,-55.8,9,CUST-1312,Paper
+CA-1262,2020-09-19,Technology,West,182.67,280.57,4,CUST-1537,Copiers
+CA-1263,2020-09-20,Technology,East,78.47,-5.26,3,CUST-1920,Phones
+CA-1264,2020-09-21,Office Supplies,West,342.53,-7.24,2,CUST-1053,Labels
+CA-1265,2020-09-22,Office Supplies,Central,719.45,-29.81,9,CUST-1540,Paper
+CA-1266,2020-09-23,Technology,East,241.76,70.7,4,CUST-1466,Accessories
+CA-1267,2020-09-24,Technology,West,689.76,-122.93,3,CUST-1864,Copiers
+CA-1268,2020-09-25,Office Supplies,South,971.42,76.86,7,CUST-1163,Labels
+CA-1269,2020-09-26,Furniture,East,139.21,70.85,8,CUST-1781,Bookcases
+CA-1270,2020-09-27,Furniture,West,688.97,180.95,2,CUST-1333,Chairs
+CA-1271,2020-09-28,Office Supplies,Central,471.56,216.82,7,CUST-1546,Paper
+CA-1272,2020-09-29,Furniture,Central,874.74,20.22,5,CUST-1797,Bookcases
+CA-1273,2020-09-30,Office Supplies,East,218.29,-48.83,5,CUST-1347,Paper
+CA-1274,2020-10-01,Furniture,West,707.99,-70.33,3,CUST-1272,Chairs
+CA-1275,2020-10-02,Furniture,East,846.21,-102.69,5,CUST-1962,Chairs
+CA-1276,2020-10-03,Technology,East,947.38,-171.18,2,CUST-1719,Phones
+CA-1277,2020-10-04,Technology,West,699.09,-28.78,4,CUST-1749,Phones
+CA-1278,2020-10-05,Furniture,West,522.32,-64.88,6,CUST-1413,Tables
+CA-1279,2020-10-06,Furniture,South,636.95,283.21,1,CUST-1499,Chairs
+CA-1280,2020-10-07,Technology,West,875.46,78.85,4,CUST-1092,Phones
+CA-1281,2020-10-08,Technology,Central,592.08,-26.36,6,CUST-1684,Copiers
+CA-1282,2020-10-09,Technology,East,78.87,90.23,9,CUST-1078,Phones
+CA-1283,2020-10-10,Office Supplies,East,934.4,-130.4,2,CUST-1621,Labels
+CA-1284,2020-10-11,Furniture,Central,705.05,22.02,7,CUST-1216,Chairs
+CA-1285,2020-10-12,Technology,West,3277.8380838819767,1501.86590979701,6,CUST-1946,Phones
+CA-1286,2020-10-13,Furniture,Central,254.89,44.45,2,CUST-1357,Bookcases
+CA-1287,2020-10-14,Office Supplies,Central,675.94,0.89,8,CUST-1617,Binders
+CA-1288,2020-10-15,Office Supplies,South,424.17,296.92,7,CUST-1506,Paper
+CA-1289,2020-10-16,Technology,Central,668.67,240.16,5,CUST-1558,Accessories
+CA-1290,2020-10-17,Office Supplies,East,151.26,111.7,5,CUST-1180,Binders
+CA-1291,2020-10-18,Furniture,Central,674.95,84.69,7,CUST-1575,Tables
+CA-1292,2020-10-19,Technology,East,999.44,110.33,9,CUST-1245,Copiers
+CA-1293,2020-10-20,Furniture,East,95.8,-99.34,9,CUST-1243,Chairs
+CA-1294,2020-10-21,Furniture,East,978.32,-2.43,9,CUST-1505,Chairs
+CA-1295,2020-10-22,Office Supplies,West,436.56,-180.27,6,CUST-1421,Labels
+CA-1296,2020-10-23,Office Supplies,South,877.22,37.77,6,CUST-1319,Labels
+CA-1297,2020-10-24,Office Supplies,East,793.27,71.51,3,CUST-1086,Labels
+CA-1298,2020-10-25,Office Supplies,East,588.67,-86.13,1,CUST-1216,Binders
+CA-1299,2020-10-26,Office Supplies,West,751.53,282.01,7,CUST-1489,Labels
+CA-1300,2020-10-27,Technology,East,884.59,254.73,4,CUST-1518,Copiers
+CA-1301,2020-10-28,Furniture,Central,433.93,161.07,1,CUST-1277,Tables
+CA-1302,2020-10-29,Furniture,Central,360.68,66.69,8,CUST-1848,Tables
+CA-1303,2020-10-30,Furniture,South,3277.8380838819767,1501.86590979701,6,CUST-1721,Chairs
+CA-1304,2020-10-31,Furniture,East,817.45,-134.67,6,CUST-1168,Tables
+CA-1305,2020-11-01,Office Supplies,West,774.17,195.25,2,CUST-1329,Paper
+CA-1306,2020-11-02,Furniture,Central,807.92,-137.59,1,CUST-1649,Bookcases
+CA-1307,2020-11-03,Technology,West,463.8,197.11,2,CUST-1440,Copiers
+CA-1308,2020-11-04,Technology,West,826.94,,4,CUST-1390,Accessories
+CA-1309,2020-11-05,Furniture,Central,164.2,238.55,2,CUST-1495,Tables
+CA-1310,2020-11-06,Furniture,West,567.26,272.02,1,CUST-1380,Tables
+CA-1311,2020-11-07,Technology,Central,55.47,-125.6,7,CUST-1305,Phones
+CA-1312,2020-11-08,Technology,West,358.36,31.34,8,CUST-1741,Phones
+CA-1313,2020-11-09,Office Supplies,Central,398.14,290.49,6,CUST-1986,Binders
+CA-1314,2020-11-10,Technology,East,426.36,41.7,4,CUST-1819,Accessories
+CA-1315,2020-11-11,Office Supplies,South,710.69,231.77,6,CUST-1672,Paper
+CA-1316,2020-11-12,Office Supplies,Central,419.13,94.37,3,CUST-1512,Binders
+CA-1317,2020-11-13,Office Supplies,Central,476.26,-12.34,8,CUST-1747,Binders
+CA-1318,2020-11-14,Office Supplies,South,275.67,-57.11,2,CUST-1948,Paper
+CA-1319,2020-11-15,Office Supplies,Central,404.59,-98.39,5,CUST-1187,Labels
+CA-1320,2020-11-16,Furniture,Central,265.91,180.9,1,CUST-1929,Chairs
+CA-1321,2020-11-17,Technology,West,3277.8380838819767,1501.86590979701,6,CUST-1515,Accessories
+CA-1322,2020-11-18,Office Supplies,South,623.28,55.64,2,CUST-1912,Paper
+CA-1323,2020-11-19,Technology,East,684.8,46.16,4,CUST-1643,Copiers
+CA-1324,2020-11-20,Technology,Central,638.52,88.64,6,CUST-1426,Accessories
+CA-1325,2020-11-21,Office Supplies,South,490.32,232.79,8,CUST-1501,Paper
+CA-1326,2020-11-22,Furniture,West,410.8,290.37,8,CUST-1729,Chairs
+CA-1327,2020-11-23,Office Supplies,East,870.17,3.79,6,CUST-1259,Binders
+CA-1328,2020-11-24,Furniture,South,543.13,213.76,4,CUST-1512,Bookcases
+CA-1329,2020-11-25,Technology,East,505.22,182.26,8,CUST-1070,Copiers
+CA-1330,2020-11-26,Furniture,East,74.36,86.76,8,CUST-1477,Tables
+CA-1331,2020-11-27,Furniture,East,374.19,278.02,1,CUST-1177,Chairs
+CA-1332,2020-11-28,Furniture,Central,411.19,-99.76,4,CUST-1456,Bookcases
+CA-1333,2020-11-29,Technology,Central,428.88,-145.37,4,CUST-1188,Copiers
+CA-1334,2020-11-30,Technology,West,601.16,226.98,7,CUST-1290,Copiers
+CA-1335,2020-12-01,Furniture,West,556.92,19.57,7,CUST-1519,Tables
+CA-1336,2020-12-02,Furniture,South,627.51,223.48,8,CUST-1764,Chairs
+CA-1337,2020-12-03,Office Supplies,West,776.64,246.55,5,CUST-1919,Labels
+CA-1338,2020-12-04,Furniture,East,822.34,-168.77,7,CUST-1978,Chairs
+CA-1339,2020-12-05,Office Supplies,East,732.22,241.73,8,CUST-1291,Labels
+CA-1340,2020-12-06,Furniture,Central,957.75,24.16,9,CUST-1945,Bookcases
+CA-1341,2020-12-07,Office Supplies,East,67.32,55.22,3,CUST-1755,Binders
+CA-1342,2020-12-08,Technology,South,235.99,113.3,3,CUST-1634,Phones
+CA-1343,2020-12-09,Furniture,East,57.18,263.19,4,CUST-1810,Chairs
+CA-1344,2020-12-10,Furniture,East,665.1,-190.44,5,CUST-1282,Tables
+CA-1345,2020-12-11,Furniture,South,903.13,38.42,1,CUST-1543,Bookcases
+CA-1346,2020-12-12,Furniture,West,281.31,143.86,7,CUST-1845,Tables
+CA-1347,2020-12-13,Office Supplies,West,930.68,161.35,9,CUST-1376,Binders
+CA-1348,2020-12-14,Furniture,South,107.25,146.27,8,CUST-1657,Bookcases
+CA-1349,2020-12-15,Technology,Central,937.71,-132.78,5,CUST-1155,Accessories
+CA-1350,2020-12-16,Technology,East,384.04,-50.3,4,CUST-1507,Copiers
+CA-1351,2020-12-17,Furniture,South,146.35,-20.64,7,CUST-1412,Tables
+CA-1352,2020-12-18,Technology,East,,202.22,5,CUST-1527,Phones
+CA-1353,2020-12-19,Furniture,Central,293.94,-60.62,7,CUST-1354,Tables
+CA-1354,2020-12-20,Furniture,East,320.63,-94.65,1,CUST-1558,Bookcases
+CA-1355,2020-12-21,Technology,South,341.93,278.72,1,CUST-1762,Copiers
+CA-1356,2020-12-22,Furniture,East,812.87,-195.57,3,CUST-1186,Bookcases
+CA-1357,2020-12-23,Technology,West,562.2,298.91,2,CUST-1030,Copiers
+CA-1358,2020-12-24,Office Supplies,Central,345.74,138.41,2,CUST-1259,Binders
+CA-1359,2020-12-25,Furniture,Central,629.82,214.23,7,CUST-1420,Tables
+CA-1360,2020-12-26,Office Supplies,Central,730.34,-52.69,2,CUST-1528,Binders
+CA-1361,2020-12-27,Technology,South,308.99,-192.84,4,CUST-1550,Phones
+CA-1362,2020-12-28,Office Supplies,Central,442.87,168.93,2,CUST-1303,Binders
+CA-1363,2020-12-29,Office Supplies,West,165.79,217.07,6,CUST-1941,Labels
+CA-1364,2020-12-30,Technology,South,222.09,170.24,8,CUST-1985,Copiers
+CA-1365,2020-12-31,Office Supplies,West,697.06,-128.57,4,CUST-1943,Labels
+CA-1366,2021-01-01,Office Supplies,East,222.37,176.71,5,CUST-1038,Paper
+CA-1367,2021-01-02,Technology,East,548.91,184.46,4,CUST-1488,Copiers
+CA-1368,2021-01-03,Office Supplies,East,723.59,129.27,3,CUST-1643,Paper
+CA-1369,2021-01-04,Technology,East,151.53,183.06,5,CUST-1541,Copiers
+CA-1370,2021-01-05,Office Supplies,West,588.95,222.96,9,CUST-1669,Labels
+CA-1371,2021-01-06,Technology,South,293.73,106.8,8,CUST-1277,Phones
+CA-1372,2021-01-07,Technology,South,964.78,-155.7,8,CUST-1202,Phones
+CA-1373,2021-01-08,Office Supplies,Central,509.37,43.81,8,CUST-1065,Binders
+CA-1374,2021-01-09,Office Supplies,West,815.69,-161.18,8,CUST-1107,Paper
+CA-1375,2021-01-10,Office Supplies,East,572.72,3.77,7,CUST-1267,Paper
+CA-1376,2021-01-11,Furniture,West,91.24,3.55,8,CUST-1221,Bookcases
+CA-1377,2021-01-12,Furniture,Central,651.49,-167.0,8,CUST-1803,Tables
+CA-1378,2021-01-13,Furniture,Central,953.83,-25.59,8,CUST-1529,Bookcases
+CA-1379,2021-01-14,Technology,West,621.53,-144.5,7,CUST-1089,Accessories
+CA-1380,2021-01-15,Office Supplies,West,828.23,204.12,1,CUST-1692,Paper
+CA-1381,2021-01-16,Technology,West,890.0,273.84,4,CUST-1254,Accessories
+CA-1382,2021-01-17,Furniture,South,266.68,-163.84,4,CUST-1454,Chairs
+CA-1383,2021-01-18,Office Supplies,East,251.44,277.56,5,CUST-1252,Paper
+CA-1384,2021-01-19,Technology,West,630.43,61.29,6,CUST-1256,Phones
+CA-1385,2021-01-20,Office Supplies,West,440.48,-50.22,4,CUST-1382,Binders
+CA-1386,2021-01-21,Technology,West,847.87,-161.57,2,CUST-1441,Accessories
+CA-1387,2021-01-22,Office Supplies,Central,905.02,50.31,6,CUST-1857,Labels
+CA-1388,2021-01-23,Furniture,Central,385.75,197.26,8,CUST-1598,Bookcases
+CA-1389,2021-01-24,Furniture,South,275.03,153.54,8,CUST-1089,Bookcases
+CA-1390,2021-01-25,Office Supplies,East,791.5,-174.89,7,CUST-1748,Paper
+CA-1391,2021-01-26,Technology,South,311.07,-163.55,6,CUST-1389,Copiers
+CA-1392,2021-01-27,Furniture,East,831.48,1.44,2,CUST-1581,Chairs
+CA-1393,2021-01-28,Furniture,Central,452.55,-52.35,7,CUST-1043,Bookcases
+CA-1394,2021-01-29,Furniture,Central,684.17,-83.81,5,CUST-1711,Tables
+CA-1395,2021-01-30,Office Supplies,Central,140.76,-59.5,6,CUST-1663,Labels
+CA-1396,2021-01-31,Office Supplies,South,642.67,201.74,8,CUST-1597,Binders
+CA-1397,2021-02-01,Technology,West,479.18,264.61,8,CUST-1018,Accessories
+CA-1398,2021-02-02,Technology,West,607.28,2.55,3,CUST-1100,Copiers
+CA-1399,2021-02-03,Technology,Central,209.61,253.06,7,CUST-1913,Accessories
+CA-1400,2021-02-04,Office Supplies,West,750.03,-39.25,1,CUST-1606,Paper
+CA-1401,2021-02-05,Office Supplies,West,869.66,38.22,1,CUST-1765,Paper
+CA-1402,2021-02-06,Technology,South,255.9,-86.99,7,CUST-1356,Copiers
+CA-1403,2021-02-07,Technology,East,140.93,120.24,9,CUST-1541,Accessories
+CA-1404,2021-02-08,Office Supplies,Central,72.46,289.49,7,CUST-1760,Labels
+CA-1405,2021-02-09,Technology,Central,659.87,101.75,5,CUST-1937,Phones
+CA-1406,2021-02-10,Furniture,South,626.74,-21.09,8,CUST-1032,Bookcases
+CA-1407,2021-02-11,Office Supplies,South,569.36,123.91,2,CUST-1969,Binders
+CA-1408,2021-02-12,Technology,West,270.35,-138.54,9,CUST-1228,Copiers
+CA-1409,2021-02-13,Office Supplies,Central,421.36,244.33,6,CUST-1523,Paper
+CA-1410,2021-02-14,Furniture,East,614.75,51.54,9,CUST-1629,Bookcases
+CA-1411,2021-02-15,Office Supplies,South,521.93,24.67,2,CUST-1861,Paper
+CA-1412,2021-02-16,Office Supplies,East,988.4,92.93,3,CUST-1154,Binders
+CA-1413,2021-02-17,Office Supplies,East,179.62,112.39,8,CUST-1422,Labels
+CA-1414,2021-02-18,Office Supplies,Central,710.39,-164.11,1,CUST-1904,Paper
+CA-1415,2021-02-19,Furniture,Central,434.1,141.31,7,CUST-1245,Chairs
+CA-1416,2021-02-20,Office Supplies,South,456.79,-79.03,7,CUST-1404,Binders
+CA-1417,2021-02-21,Office Supplies,Central,731.72,156.98,1,CUST-1843,Labels
+CA-1418,2021-02-22,Technology,Central,707.81,211.27,9,CUST-1758,Phones
+CA-1419,2021-02-23,Office Supplies,Central,991.69,201.98,8,CUST-1540,Paper
+CA-1420,2021-02-24,Technology,East,171.97,76.25,4,CUST-1160,Phones
+CA-1421,2021-02-25,Furniture,South,148.9,60.08,5,CUST-1746,Chairs
+CA-1422,2021-02-26,Furniture,West,738.12,-128.56,2,CUST-1701,Tables
+CA-1423,2021-02-27,Furniture,East,599.47,187.67,9,CUST-1116,Chairs
+CA-1424,2021-02-28,Furniture,Central,310.45,-64.3,6,CUST-1270,Chairs
+CA-1425,2021-03-01,Technology,East,125.45,48.35,3,CUST-1769,Phones
+CA-1426,2021-03-02,Office Supplies,Central,131.38,-57.86,7,CUST-1691,Binders
+CA-1427,2021-03-03,Furniture,Central,899.48,-133.09,9,CUST-1486,Tables
+CA-1428,2021-03-04,Office Supplies,East,232.27,114.78,3,CUST-1884,Binders
+CA-1429,2021-03-05,Technology,South,357.2,-172.83,2,CUST-1171,Accessories
+CA-1430,2021-03-06,Technology,Central,265.32,174.32,7,CUST-1949,Phones
+CA-1431,2021-03-07,Technology,South,387.25,-41.21,7,CUST-1273,Phones
+CA-1432,2021-03-08,Furniture,West,115.95,-199.93,4,CUST-1258,Chairs
+CA-1433,2021-03-09,Office Supplies,Central,543.11,55.56,9,CUST-1134,Binders
+CA-1434,2021-03-10,Office Supplies,South,114.23,-176.57,8,CUST-1682,Paper
+CA-1435,2021-03-11,Office Supplies,South,810.34,-61.92,1,CUST-1721,Paper
+CA-1436,2021-03-12,Technology,West,3277.8380838819767,1501.86590979701,1,CUST-1747,Accessories
+CA-1437,2021-03-13,Furniture,South,563.01,-168.66,5,CUST-1421,Bookcases
+CA-1438,2021-03-14,Technology,South,886.08,219.67,6,CUST-1420,Phones
+CA-1439,2021-03-15,Technology,West,668.33,-198.09,3,CUST-1185,Phones
+CA-1440,2021-03-16,Office Supplies,Central,556.31,-76.59,9,CUST-1928,Paper
+CA-1441,2021-03-17,Technology,South,358.12,170.45,6,CUST-1363,Copiers
+CA-1442,2021-03-18,Office Supplies,South,366.35,-41.86,4,CUST-1954,Binders
+CA-1443,2021-03-19,Furniture,South,686.01,-149.05,7,CUST-1606,Tables
+CA-1444,2021-03-20,Office Supplies,East,994.43,-19.88,8,CUST-1377,Binders
+CA-1445,2021-03-21,Furniture,West,678.75,-64.8,9,CUST-1522,Chairs
+CA-1446,2021-03-22,Office Supplies,East,579.89,221.36,6,CUST-1579,Paper
+CA-1447,2021-03-23,Technology,West,744.12,-43.33,6,CUST-1890,Accessories
+CA-1448,2021-03-24,Technology,Central,491.95,194.47,8,CUST-1721,Phones
+CA-1449,2021-03-25,Furniture,Central,107.14,245.94,5,CUST-1195,Chairs
+CA-1450,2021-03-26,Furniture,South,584.18,16.91,3,CUST-1880,Tables
+CA-1451,2021-03-27,Furniture,West,959.74,254.97,3,CUST-1097,Chairs
+CA-1452,2021-03-28,Office Supplies,Central,216.54,-11.34,6,CUST-1604,Binders
+CA-1453,2021-03-29,Office Supplies,West,705.5,282.04,2,CUST-1983,Paper
+CA-1454,2021-03-30,Furniture,Central,240.89,-155.36,6,CUST-1021,Chairs
+CA-1455,2021-03-31,Technology,East,559.04,143.51,6,CUST-1449,Phones
+CA-1456,2021-04-01,Office Supplies,Central,141.84,46.91,8,CUST-1171,Labels
+CA-1457,2021-04-02,Office Supplies,East,477.85,-6.18,7,CUST-1382,Paper
+CA-1458,2021-04-03,Office Supplies,Central,768.36,116.36,8,CUST-1133,Labels
+CA-1459,2021-04-04,Furniture,South,380.19,151.93,9,CUST-1425,Bookcases
+CA-1460,2021-04-05,Furniture,East,681.67,-197.82,6,CUST-1024,Bookcases
+CA-1461,2021-04-06,Furniture,Central,805.68,-116.52,3,CUST-1502,Chairs
+CA-1462,2021-04-07,Furniture,South,930.82,156.52,3,CUST-1184,Chairs
+CA-1463,2021-04-08,Furniture,East,272.91,133.19,1,CUST-1084,Bookcases
+CA-1464,2021-04-09,Technology,South,429.35,283.02,5,CUST-1566,Copiers
+CA-1465,2021-04-10,Technology,West,194.8,180.52,4,CUST-1762,Copiers
+CA-1466,2021-04-11,Furniture,West,992.86,275.39,9,CUST-1143,Chairs
+CA-1467,2021-04-12,Office Supplies,East,930.65,151.27,9,CUST-1862,Labels
+CA-1468,2021-04-13,Furniture,Central,562.96,-50.97,5,CUST-1909,Bookcases
+CA-1469,2021-04-14,Technology,East,849.93,-147.32,4,CUST-1678,Accessories
+CA-1470,2021-04-15,Technology,South,544.91,190.91,7,CUST-1411,Accessories
+CA-1471,2021-04-16,Office Supplies,Central,642.41,122.07,6,CUST-1223,Binders
+CA-1472,2021-04-17,Technology,West,134.67,-175.91,4,CUST-1219,Accessories
+CA-1473,2021-04-18,Furniture,Central,767.51,-19.97,2,CUST-1178,Tables
+CA-1474,2021-04-19,Office Supplies,West,171.33,278.4,1,CUST-1630,Paper
+CA-1475,2021-04-20,Furniture,Central,834.76,50.2,4,CUST-1432,Chairs
+CA-1476,2021-04-21,Furniture,Central,792.93,16.36,4,CUST-1264,Tables
+CA-1477,2021-04-22,Office Supplies,Central,723.31,28.85,1,CUST-1953,Binders
+CA-1478,2021-04-23,Furniture,South,84.35,-95.56,6,CUST-1428,Bookcases
+CA-1479,2021-04-24,Technology,South,337.97,-15.65,4,CUST-1661,Accessories
+CA-1480,2021-04-25,Furniture,East,299.96,-15.09,1,CUST-1415,Chairs
+CA-1481,2021-04-26,Office Supplies,East,392.13,-173.82,1,CUST-1452,Paper
+CA-1482,2021-04-27,Office Supplies,West,133.26,183.78,1,CUST-1726,Labels
+CA-1483,2021-04-28,Office Supplies,South,940.11,8.25,8,CUST-1196,Binders
+CA-1484,2021-04-29,Furniture,West,576.11,211.09,8,CUST-1553,Chairs
+CA-1485,2021-04-30,Office Supplies,East,340.25,225.17,2,CUST-1052,Binders
+CA-1486,2021-05-01,Office Supplies,West,427.13,-94.0,7,CUST-1479,Labels
+CA-1487,2021-05-02,Furniture,East,474.84,,8,CUST-1442,Bookcases
+CA-1488,2021-05-03,Technology,South,620.56,36.14,8,CUST-1329,Copiers
+CA-1489,2021-05-04,Furniture,Central,539.9,240.08,7,CUST-1250,Chairs
+CA-1490,2021-05-05,Office Supplies,South,923.42,-92.13,5,CUST-1806,Labels
+CA-1491,2021-05-06,Office Supplies,West,522.12,138.91,1,CUST-1889,Paper
+CA-1492,2021-05-07,Furniture,West,992.55,103.88,9,CUST-1782,Bookcases
+CA-1493,2021-05-08,Technology,South,858.85,-52.35,7,CUST-1966,Phones
+CA-1494,2021-05-09,Office Supplies,South,248.08,-131.7,2,CUST-1924,Paper
+CA-1495,2021-05-10,Office Supplies,East,934.07,125.82,6,CUST-1122,Labels
+CA-1496,2021-05-11,Office Supplies,West,160.55,169.3,2,CUST-1878,Paper
+CA-1497,2021-05-12,Furniture,West,826.58,-42.19,1,CUST-1386,Tables
+CA-1498,2021-05-13,Office Supplies,South,411.59,122.42,7,CUST-1338,Binders
+CA-1499,2021-05-14,Technology,Central,884.08,-2.43,2,CUST-1777,Accessories
+CA-1500,2021-05-15,Office Supplies,West,874.65,156.6,2,CUST-1347,Paper
+CA-1501,2021-05-16,Office Supplies,Central,815.63,-100.39,5,CUST-1028,Binders
+CA-1502,2021-05-17,Technology,South,800.53,245.11,5,CUST-1974,Phones
+CA-1503,2021-05-18,Office Supplies,South,339.45,-56.3,7,CUST-1034,Binders
+CA-1504,2021-05-19,Furniture,East,126.87,-16.11,1,CUST-1517,Tables
+CA-1505,2021-05-20,Furniture,West,432.83,-170.95,8,CUST-1395,Tables
+CA-1506,2021-05-21,Furniture,Central,214.85,-144.24,3,CUST-1622,Tables
+CA-1507,2021-05-22,Technology,East,710.2,57.93,4,CUST-1293,Phones
+CA-1508,2021-05-23,Office Supplies,West,378.79,-66.2,9,CUST-1588,Labels
+CA-1509,2021-05-24,Furniture,East,976.83,217.74,4,CUST-1348,Tables
+CA-1510,2021-05-25,Technology,South,658.92,-192.65,5,CUST-1146,Copiers
+CA-1511,2021-05-26,Office Supplies,West,831.36,-10.45,7,CUST-1066,Binders
+CA-1512,2021-05-27,Technology,East,175.9,-31.33,4,CUST-1903,Accessories
+CA-1513,2021-05-28,Furniture,East,868.91,-190.34,1,CUST-1519,Bookcases
+CA-1514,2021-05-29,Furniture,Central,926.62,-137.82,9,CUST-1121,Tables
+CA-1515,2021-05-30,Furniture,East,512.71,6.82,4,CUST-1339,Tables
+CA-1516,2021-05-31,Technology,West,625.94,46.43,9,CUST-1174,Accessories
+CA-1517,2021-06-01,Technology,West,776.57,2.14,6,CUST-1899,Copiers
+CA-1518,2021-06-02,Furniture,Central,216.1,65.47,1,CUST-1690,Chairs
+CA-1519,2021-06-03,Technology,West,527.44,,3,CUST-1596,Accessories
+CA-1520,2021-06-04,Furniture,South,428.73,-195.04,2,CUST-1450,Chairs
+CA-1521,2021-06-05,Furniture,West,189.06,32.05,9,CUST-1556,Chairs
+CA-1522,2021-06-06,Office Supplies,West,399.16,281.75,1,CUST-1135,Labels
+CA-1523,2021-06-07,Technology,East,114.76,59.52,9,CUST-1854,Copiers
+CA-1524,2021-06-08,Furniture,East,74.52,138.77,9,CUST-1015,Chairs
+CA-1525,2021-06-09,Furniture,West,178.41,-44.07,8,CUST-1332,Tables
+CA-1526,2021-06-10,Technology,Central,964.96,187.0,8,CUST-1194,Copiers
+CA-1527,2021-06-11,Office Supplies,East,572.05,186.46,1,CUST-1495,Paper
+CA-1528,2021-06-12,Office Supplies,Central,967.53,60.65,8,CUST-1008,Paper
+CA-1529,2021-06-13,Furniture,West,460.87,288.01,3,CUST-1827,Tables
+CA-1530,2021-06-14,Technology,West,346.23,-137.22,7,CUST-1333,Phones
+CA-1531,2021-06-15,Office Supplies,South,530.83,-191.53,1,CUST-1332,Paper
+CA-1532,2021-06-16,Technology,East,467.54,185.08,1,CUST-1326,Phones
+CA-1533,2021-06-17,Technology,West,150.38,203.58,5,CUST-1014,Phones
+CA-1534,2021-06-18,Furniture,South,658.78,-139.9,5,CUST-1838,Tables
+CA-1535,2021-06-19,Office Supplies,East,255.24,-67.21,8,CUST-1613,Paper
+CA-1536,2021-06-20,Furniture,West,638.61,-191.22,7,CUST-1225,Tables
+CA-1537,2021-06-21,Office Supplies,West,667.69,-53.35,8,CUST-1424,Paper
+CA-1538,2021-06-22,Office Supplies,East,194.42,186.57,6,CUST-1789,Binders
+CA-1539,2021-06-23,Office Supplies,East,108.28,58.98,6,CUST-1407,Paper
+CA-1540,2021-06-24,Office Supplies,East,791.72,-25.95,2,CUST-1112,Paper
+CA-1541,2021-06-25,Office Supplies,West,486.81,,6,CUST-1996,Binders
+CA-1542,2021-06-26,Technology,West,105.26,-199.32,5,CUST-1427,Copiers
+CA-1543,2021-06-27,Furniture,South,995.12,-50.1,3,CUST-1000,Bookcases
+CA-1544,2021-06-28,Technology,Central,104.89,123.23,6,CUST-1265,Phones
+CA-1545,2021-06-29,Office Supplies,East,710.28,287.1,8,CUST-1490,Labels
+CA-1546,2021-06-30,Furniture,West,984.49,223.53,9,CUST-1207,Chairs
+CA-1547,2021-07-01,Office Supplies,West,277.22,-188.2,1,CUST-1621,Paper
+CA-1548,2021-07-02,Furniture,East,185.14,249.28,3,CUST-1711,Tables
+CA-1549,2021-07-03,Technology,Central,165.32,191.6,3,CUST-1951,Copiers
+CA-1550,2021-07-04,Furniture,East,338.11,190.19,8,CUST-1368,Tables
+CA-1551,2021-07-05,Furniture,Central,145.99,29.0,1,CUST-1984,Bookcases
+CA-1552,2021-07-06,Furniture,West,707.55,-1.0,5,CUST-1305,Bookcases
+CA-1553,2021-07-07,Furniture,Central,109.18,-48.54,3,CUST-1011,Tables
+CA-1554,2021-07-08,Furniture,South,533.95,-167.15,2,CUST-1344,Tables
+CA-1555,2021-07-09,Office Supplies,West,996.86,-85.88,8,CUST-1464,Labels
+CA-1556,2021-07-10,Furniture,South,823.27,-76.7,3,CUST-1699,Tables
+CA-1557,2021-07-11,Furniture,East,634.46,42.04,7,CUST-1665,Chairs
+CA-1558,2021-07-12,Technology,East,340.94,173.72,1,CUST-1493,Accessories
+CA-1559,2021-07-13,Furniture,East,642.7,36.9,6,CUST-1367,Tables
+CA-1560,2021-07-14,Technology,Central,550.69,-171.08,3,CUST-1845,Phones
+CA-1561,2021-07-15,Office Supplies,West,454.78,278.89,8,CUST-1936,Paper
+CA-1562,2021-07-16,Furniture,East,174.17,271.36,6,CUST-1419,Tables
+CA-1563,2021-07-17,Technology,East,892.27,192.59,2,CUST-1888,Copiers
+CA-1564,2021-07-18,Technology,West,477.3,295.66,6,CUST-1790,Accessories
+CA-1565,2021-07-19,Office Supplies,East,234.89,72.24,7,CUST-1170,Paper
+CA-1566,2021-07-20,Furniture,South,399.37,281.38,5,CUST-1133,Chairs
+CA-1567,2021-07-21,Furniture,West,443.42,-162.2,3,CUST-1964,Bookcases
+CA-1568,2021-07-22,Technology,West,836.16,-17.16,4,CUST-1426,Copiers
+CA-1569,2021-07-23,Furniture,West,746.93,-87.31,4,CUST-1024,Bookcases
+CA-1570,2021-07-24,Technology,South,,-102.08,6,CUST-1529,Accessories
+CA-1571,2021-07-25,Furniture,West,60.48,-129.6,1,CUST-1189,Bookcases
+CA-1572,2021-07-26,Technology,South,445.35,111.21,4,CUST-1140,Phones
+CA-1573,2021-07-27,Furniture,West,507.28,190.66,4,CUST-1554,Bookcases
+CA-1574,2021-07-28,Office Supplies,Central,68.23,89.15,1,CUST-1845,Binders
+CA-1575,2021-07-29,Furniture,East,296.82,-126.52,9,CUST-1795,Bookcases
+CA-1576,2021-07-30,Furniture,Central,772.28,205.56,4,CUST-1657,Bookcases
+CA-1577,2021-07-31,Office Supplies,East,180.25,117.98,7,CUST-1314,Binders
+CA-1578,2021-08-01,Furniture,South,558.54,-5.92,3,CUST-1443,Bookcases
+CA-1579,2021-08-02,Office Supplies,Central,254.44,137.07,3,CUST-1318,Labels
+CA-1580,2021-08-03,Furniture,West,61.51,-70.05,8,CUST-1440,Bookcases
+CA-1581,2021-08-04,Technology,East,279.14,-27.4,8,CUST-1091,Accessories
+CA-1582,2021-08-05,Technology,East,977.08,258.74,1,CUST-1178,Phones
+CA-1583,2021-08-06,Furniture,Central,811.46,-54.75,2,CUST-1055,Bookcases
+CA-1584,2021-08-07,Furniture,South,961.6,34.99,8,CUST-1154,Chairs
+CA-1585,2021-08-08,Furniture,Central,513.46,245.07,1,CUST-1671,Chairs
+CA-1586,2021-08-09,Technology,South,154.25,153.86,8,CUST-1110,Phones
+CA-1587,2021-08-10,Furniture,South,570.56,-168.9,8,CUST-1136,Bookcases
+CA-1588,2021-08-11,Technology,East,481.66,-126.35,2,CUST-1231,Copiers
+CA-1589,2021-08-12,Office Supplies,Central,852.14,-196.08,4,CUST-1991,Binders
+CA-1590,2021-08-13,Technology,Central,143.18,115.46,6,CUST-1467,Accessories
+CA-1591,2021-08-14,Technology,South,513.83,23.84,9,CUST-1731,Phones
+CA-1592,2021-08-15,Office Supplies,Central,192.55,-132.86,8,CUST-1480,Paper
+CA-1593,2021-08-16,Technology,West,358.44,278.97,8,CUST-1067,Phones
+CA-1594,2021-08-17,Furniture,West,750.49,64.83,7,CUST-1813,Chairs
+CA-1595,2021-08-18,Furniture,Central,3277.8380838819767,1501.86590979701,9,CUST-1248,Chairs
+CA-1596,2021-08-19,Technology,Central,407.09,50.3,2,CUST-1993,Copiers
+CA-1597,2021-08-20,Furniture,South,424.75,139.81,3,CUST-1322,Tables
+CA-1598,2021-08-21,Technology,West,486.47,-161.88,8,CUST-1921,Accessories
+CA-1599,2021-08-22,Furniture,West,795.77,-62.65,6,CUST-1903,Chairs
+CA-1600,2021-08-23,Furniture,East,897.48,203.48,9,CUST-1517,Bookcases
+CA-1601,2021-08-24,Technology,South,957.57,29.83,4,CUST-1975,Copiers
+CA-1602,2021-08-25,Furniture,East,797.56,73.29,8,CUST-1791,Tables
+CA-1603,2021-08-26,Technology,West,349.64,16.41,3,CUST-1431,Copiers
+CA-1604,2021-08-27,Furniture,South,703.73,-178.05,3,CUST-1486,Tables
+CA-1605,2021-08-28,Furniture,Central,465.72,-117.13,8,CUST-1605,Tables
+CA-1606,2021-08-29,Office Supplies,South,291.94,22.77,5,CUST-1428,Paper
+CA-1607,2021-08-30,Office Supplies,Central,848.83,-95.41,3,CUST-1268,Labels
+CA-1608,2021-08-31,Technology,Central,86.51,-175.01,1,CUST-1708,Accessories
+CA-1609,2021-09-01,Office Supplies,South,906.67,221.82,3,CUST-1536,Paper
+CA-1610,2021-09-02,Technology,Central,488.4,290.6,9,CUST-1147,Phones
+CA-1611,2021-09-03,Office Supplies,East,655.34,196.57,5,CUST-1117,Paper
+CA-1612,2021-09-04,Furniture,West,676.39,226.89,2,CUST-1849,Tables
+CA-1613,2021-09-05,Technology,Central,900.36,-79.01,7,CUST-1366,Phones
+CA-1614,2021-09-06,Technology,East,654.84,280.31,2,CUST-1849,Phones
+CA-1615,2021-09-07,Furniture,Central,633.24,-101.54,4,CUST-1065,Bookcases
+CA-1616,2021-09-08,Technology,West,113.32,275.71,7,CUST-1969,Accessories
+CA-1617,2021-09-09,Technology,East,542.49,297.41,4,CUST-1812,Copiers
+CA-1618,2021-09-10,Office Supplies,West,192.66,155.86,7,CUST-1369,Labels
+CA-1619,2021-09-11,Technology,West,750.56,290.57,7,CUST-1174,Phones
+CA-1620,2021-09-12,Furniture,East,536.61,84.77,1,CUST-1830,Bookcases
+CA-1621,2021-09-13,Office Supplies,East,696.22,-70.23,6,CUST-1587,Paper
+CA-1622,2021-09-14,Office Supplies,East,89.59,18.5,9,CUST-1494,Binders
+CA-1623,2021-09-15,Furniture,South,130.55,96.78,2,CUST-1972,Tables
+CA-1624,2021-09-16,Furniture,East,730.51,-163.46,3,CUST-1113,Tables
+CA-1625,2021-09-17,Office Supplies,East,118.48,111.17,5,CUST-1110,Binders
+CA-1626,2021-09-18,Technology,East,117.69,290.59,9,CUST-1760,Accessories
+CA-1627,2021-09-19,Office Supplies,East,61.5,-104.95,4,CUST-1438,Binders
+CA-1628,2021-09-20,Furniture,Central,958.68,196.3,1,CUST-1714,Tables
+CA-1629,2021-09-21,Office Supplies,South,750.63,253.95,4,CUST-1146,Binders
+CA-1630,2021-09-22,Furniture,West,385.59,271.85,6,CUST-1034,Bookcases
+CA-1631,2021-09-23,Office Supplies,East,331.71,280.07,5,CUST-1998,Paper
+CA-1632,2021-09-24,Technology,Central,382.22,60.73,1,CUST-1308,Phones
+CA-1633,2021-09-25,Office Supplies,Central,785.92,288.65,4,CUST-1537,Paper
+CA-1634,2021-09-26,Office Supplies,Central,678.3,178.66,6,CUST-1749,Paper
+CA-1635,2021-09-27,Furniture,West,225.94,-119.16,4,CUST-1013,Tables
+CA-1636,2021-09-28,Furniture,East,215.4,38.45,9,CUST-1373,Chairs
+CA-1637,2021-09-29,Furniture,South,143.48,159.17,5,CUST-1556,Bookcases
+CA-1638,2021-09-30,Office Supplies,South,677.29,-76.33,8,CUST-1427,Labels
+CA-1639,2021-10-01,Technology,Central,776.15,120.31,9,CUST-1727,Copiers
+CA-1640,2021-10-02,Furniture,West,301.79,133.3,5,CUST-1232,Chairs
+CA-1641,2021-10-03,Furniture,West,69.9,-118.65,6,CUST-1704,Bookcases
+CA-1642,2021-10-04,Office Supplies,West,128.06,82.54,1,CUST-1562,Binders
+CA-1643,2021-10-05,Furniture,South,969.47,185.81,7,CUST-1938,Tables
+CA-1644,2021-10-06,Technology,Central,330.67,49.45,4,CUST-1886,Accessories
+CA-1645,2021-10-07,Technology,East,780.76,-193.95,2,CUST-1725,Copiers
+CA-1646,2021-10-08,Furniture,South,643.43,-195.48,5,CUST-1662,Chairs
+CA-1647,2021-10-09,Furniture,Central,412.84,-21.49,3,CUST-1439,Tables
+CA-1648,2021-10-10,Office Supplies,Central,245.4,263.1,6,CUST-1501,Binders
+CA-1649,2021-10-11,Technology,East,165.32,-85.66,8,CUST-1274,Phones
+CA-1650,2021-10-12,Technology,East,634.26,117.18,7,CUST-1849,Accessories
+CA-1651,2021-10-13,Furniture,East,785.9,-88.96,3,CUST-1075,Chairs
+CA-1652,2021-10-14,Office Supplies,West,661.71,-39.17,8,CUST-1438,Paper
+CA-1653,2021-10-15,Technology,East,553.79,224.02,2,CUST-1731,Accessories
+CA-1654,2021-10-16,Technology,Central,89.85,164.43,9,CUST-1859,Accessories
+CA-1655,2021-10-17,Office Supplies,East,970.06,-152.3,4,CUST-1955,Binders
+CA-1656,2021-10-18,Office Supplies,Central,808.78,14.35,1,CUST-1698,Paper
+CA-1657,2021-10-19,Technology,South,328.18,-185.42,8,CUST-1288,Phones
+CA-1658,2021-10-20,Technology,West,980.97,40.45,7,CUST-1914,Accessories
+CA-1659,2021-10-21,Office Supplies,South,621.79,131.22,5,CUST-1539,Paper
+CA-1660,2021-10-22,Technology,South,603.3,-140.75,5,CUST-1890,Copiers
+CA-1661,2021-10-23,Furniture,Central,760.67,-55.56,7,CUST-1691,Bookcases
+CA-1662,2021-10-24,Furniture,South,821.18,-1.08,5,CUST-1252,Bookcases
+CA-1663,2021-10-25,Office Supplies,Central,673.65,259.77,8,CUST-1125,Binders
+CA-1664,2021-10-26,Office Supplies,East,171.69,296.63,6,CUST-1176,Binders
+CA-1665,2021-10-27,Office Supplies,East,371.35,-177.54,5,CUST-1036,Paper
+CA-1666,2021-10-28,Furniture,Central,931.68,180.5,9,CUST-1409,Tables
+CA-1667,2021-10-29,Technology,East,263.38,-14.14,2,CUST-1610,Accessories
+CA-1668,2021-10-30,Furniture,West,403.56,-3.77,1,CUST-1609,Tables
+CA-1669,2021-10-31,Technology,South,460.47,177.13,8,CUST-1126,Phones
+CA-1670,2021-11-01,Furniture,West,467.43,259.21,3,CUST-1482,Tables
+CA-1671,2021-11-02,Technology,South,632.29,275.46,7,CUST-1167,Accessories
+CA-1672,2021-11-03,Furniture,East,945.92,88.56,8,CUST-1591,Bookcases
+CA-1673,2021-11-04,Office Supplies,West,278.66,-21.44,6,CUST-1293,Paper
+CA-1674,2021-11-05,Furniture,East,165.43,193.77,9,CUST-1844,Tables
+CA-1675,2021-11-06,Technology,South,237.6,-74.5,7,CUST-1637,Accessories
+CA-1676,2021-11-07,Furniture,Central,892.58,82.04,5,CUST-1342,Chairs
+CA-1677,2021-11-08,Furniture,Central,663.52,-20.71,8,CUST-1309,Bookcases
+CA-1678,2021-11-09,Furniture,West,321.61,128.32,2,CUST-1661,Tables
+CA-1679,2021-11-10,Office Supplies,East,825.15,-79.8,7,CUST-1527,Paper
+CA-1680,2021-11-11,Furniture,East,868.3,-104.2,4,CUST-1539,Bookcases
+CA-1681,2021-11-12,Office Supplies,West,854.19,259.12,9,CUST-1418,Paper
+CA-1682,2021-11-13,Office Supplies,Central,3277.8380838819767,1501.86590979701,1,CUST-1443,Binders
+CA-1683,2021-11-14,Furniture,South,289.63,52.98,7,CUST-1684,Tables
+CA-1684,2021-11-15,Furniture,West,767.29,-89.57,6,CUST-1557,Chairs
+CA-1685,2021-11-16,Furniture,South,487.51,-180.54,8,CUST-1839,Chairs
+CA-1686,2021-11-17,Technology,Central,849.9,-181.99,5,CUST-1235,Accessories
+CA-1687,2021-11-18,Furniture,East,742.07,-112.39,1,CUST-1438,Bookcases
+CA-1688,2021-11-19,Office Supplies,Central,,233.39,1,CUST-1213,Binders
+CA-1689,2021-11-20,Furniture,West,673.35,-58.76,9,CUST-1084,Bookcases
+CA-1690,2021-11-21,Technology,East,218.56,275.23,6,CUST-1793,Accessories
+CA-1691,2021-11-22,Furniture,West,3277.8380838819767,1501.86590979701,5,CUST-1743,Chairs
+CA-1692,2021-11-23,Technology,West,985.44,18.31,1,CUST-1084,Accessories
+CA-1693,2021-11-24,Technology,Central,940.52,90.04,6,CUST-1920,Copiers
+CA-1694,2021-11-25,Furniture,West,91.02,58.35,6,CUST-1488,Tables
+CA-1695,2021-11-26,Office Supplies,Central,3277.8380838819767,1501.86590979701,3,CUST-1064,Paper
+CA-1696,2021-11-27,Technology,East,175.14,-58.75,8,CUST-1645,Phones
+CA-1697,2021-11-28,Furniture,Central,739.68,-23.47,1,CUST-1662,Tables
+CA-1698,2021-11-29,Furniture,East,826.9,247.05,1,CUST-1626,Tables
+CA-1699,2021-11-30,Office Supplies,Central,252.84,273.23,6,CUST-1063,Paper
+CA-1700,2021-12-01,Technology,South,530.56,246.28,1,CUST-1342,Phones
+CA-1701,2021-12-02,Technology,South,848.67,9.72,6,CUST-1938,Copiers
+CA-1702,2021-12-03,Furniture,West,746.16,190.18,1,CUST-1874,Bookcases
+CA-1703,2021-12-04,Furniture,Central,565.13,38.17,6,CUST-1918,Tables
+CA-1704,2021-12-05,Office Supplies,Central,610.83,48.77,3,CUST-1351,Binders
+CA-1705,2021-12-06,Office Supplies,East,532.94,-97.66,8,CUST-1157,Paper
+CA-1706,2021-12-07,Technology,West,332.67,95.57,6,CUST-1588,Copiers
+CA-1707,2021-12-08,Technology,Central,586.77,-106.93,1,CUST-1490,Phones
+CA-1708,2021-12-09,Furniture,West,704.44,-34.22,5,CUST-1657,Bookcases
+CA-1709,2021-12-10,Technology,South,,227.52,8,CUST-1854,Copiers
+CA-1710,2021-12-11,Office Supplies,Central,654.48,-96.46,3,CUST-1462,Binders
+CA-1711,2021-12-12,Office Supplies,Central,773.07,-164.42,6,CUST-1224,Binders
+CA-1712,2021-12-13,Furniture,West,202.07,-165.5,5,CUST-1916,Tables
+CA-1713,2021-12-14,Office Supplies,Central,488.48,270.39,6,CUST-1312,Paper
+CA-1714,2021-12-15,Office Supplies,West,58.87,53.46,1,CUST-1614,Labels
+CA-1715,2021-12-16,Office Supplies,Central,284.34,4.71,7,CUST-1918,Binders
+CA-1716,2021-12-17,Office Supplies,East,740.14,205.44,9,CUST-1858,Binders
+CA-1717,2021-12-18,Furniture,West,992.22,217.91,2,CUST-1812,Tables
+CA-1718,2021-12-19,Furniture,Central,144.22,-33.9,5,CUST-1939,Bookcases
+CA-1719,2021-12-20,Technology,South,431.42,146.81,4,CUST-1465,Copiers
+CA-1720,2021-12-21,Office Supplies,Central,810.07,185.56,6,CUST-1087,Paper
+CA-1721,2021-12-22,Technology,South,243.83,127.33,6,CUST-1882,Phones
+CA-1722,2021-12-23,Furniture,South,577.33,-124.2,2,CUST-1302,Tables
+CA-1723,2021-12-24,Furniture,East,746.42,237.94,2,CUST-1679,Tables
+CA-1724,2021-12-25,Furniture,West,635.19,69.55,4,CUST-1434,Tables
+CA-1725,2021-12-26,Furniture,Central,228.62,-58.76,1,CUST-1681,Tables
+CA-1726,2021-12-27,Furniture,East,387.62,12.61,9,CUST-1134,Chairs
+CA-1727,2021-12-28,Furniture,Central,794.6,-181.21,7,CUST-1049,Tables
+CA-1728,2021-12-29,Furniture,South,576.52,-136.07,7,CUST-1431,Chairs
+CA-1729,2021-12-30,Office Supplies,West,54.97,182.77,3,CUST-1339,Paper
+CA-1730,2021-12-31,Technology,Central,772.94,-199.99,3,CUST-1346,Copiers
+CA-1731,2022-01-01,Furniture,Central,83.55,8.28,1,CUST-1645,Chairs
+CA-1732,2022-01-02,Office Supplies,South,758.45,61.26,3,CUST-1346,Labels
+CA-1733,2022-01-03,Office Supplies,Central,242.36,-172.68,3,CUST-1648,Paper
+CA-1734,2022-01-04,Technology,Central,960.17,286.54,4,CUST-1244,Accessories
+CA-1735,2022-01-05,Furniture,South,399.54,-86.94,4,CUST-1108,Tables
+CA-1736,2022-01-06,Technology,East,360.59,-47.9,3,CUST-1824,Phones
+CA-1737,2022-01-07,Furniture,South,191.44,-48.03,8,CUST-1798,Bookcases
+CA-1738,2022-01-08,Office Supplies,East,340.32,-84.79,8,CUST-1532,Binders
+CA-1739,2022-01-09,Office Supplies,West,882.82,-199.26,1,CUST-1089,Binders
+CA-1740,2022-01-10,Office Supplies,East,996.52,164.67,7,CUST-1295,Paper
+CA-1741,2022-01-11,Office Supplies,East,399.89,283.42,2,CUST-1111,Labels
+CA-1742,2022-01-12,Technology,West,476.18,-87.85,1,CUST-1812,Accessories
+CA-1743,2022-01-13,Furniture,East,735.97,131.52,3,CUST-1588,Chairs
+CA-1744,2022-01-14,Furniture,South,891.89,170.95,4,CUST-1176,Tables
+CA-1745,2022-01-15,Technology,East,613.39,224.21,6,CUST-1342,Copiers
+CA-1746,2022-01-16,Furniture,West,421.95,11.31,5,CUST-1659,Tables
+CA-1747,2022-01-17,Office Supplies,South,441.99,-48.53,4,CUST-1100,Labels
+CA-1748,2022-01-18,Furniture,West,710.84,-37.35,8,CUST-1757,Bookcases
+CA-1749,2022-01-19,Office Supplies,West,53.06,156.31,4,CUST-1628,Paper
+CA-1750,2022-01-20,Technology,Central,638.61,208.39,2,CUST-1603,Phones
+CA-1751,2022-01-21,Furniture,Central,387.72,-109.19,3,CUST-1400,Tables
+CA-1752,2022-01-22,Technology,West,804.49,-14.53,6,CUST-1027,Phones
+CA-1753,2022-01-23,Furniture,West,138.34,250.97,8,CUST-1936,Chairs
+CA-1754,2022-01-24,Office Supplies,West,608.79,203.35,8,CUST-1961,Paper
+CA-1755,2022-01-25,Technology,Central,506.92,292.43,9,CUST-1536,Phones
+CA-1756,2022-01-26,Furniture,Central,660.21,177.12,7,CUST-1057,Chairs
+CA-1757,2022-01-27,Office Supplies,East,111.61,-3.4,2,CUST-1497,Paper
+CA-1758,2022-01-28,Technology,East,600.98,95.32,8,CUST-1296,Accessories
+CA-1759,2022-01-29,Technology,West,583.41,130.51,7,CUST-1133,Accessories
+CA-1760,2022-01-30,Furniture,South,582.63,-160.77,8,CUST-1330,Chairs
+CA-1761,2022-01-31,Furniture,South,623.31,72.25,3,CUST-1248,Bookcases
+CA-1762,2022-02-01,Furniture,Central,692.64,154.66,7,CUST-1549,Chairs
+CA-1763,2022-02-02,Office Supplies,Central,814.74,-116.34,9,CUST-1901,Labels
+CA-1764,2022-02-03,Furniture,Central,306.33,190.32,3,CUST-1940,Tables
+CA-1765,2022-02-04,Technology,West,833.8,91.89,6,CUST-1074,Copiers
+CA-1766,2022-02-05,Technology,South,523.34,276.11,2,CUST-1653,Accessories
+CA-1767,2022-02-06,Furniture,East,123.21,-178.79,2,CUST-1833,Tables
+CA-1768,2022-02-07,Furniture,West,105.62,-67.34,5,CUST-1167,Bookcases
+CA-1769,2022-02-08,Technology,East,367.53,100.78,5,CUST-1770,Accessories
+CA-1770,2022-02-09,Office Supplies,East,795.65,-51.72,7,CUST-1502,Labels
+CA-1771,2022-02-10,Furniture,West,722.3,157.21,2,CUST-1884,Tables
+CA-1772,2022-02-11,Furniture,East,799.18,179.5,7,CUST-1354,Chairs
+CA-1773,2022-02-12,Technology,South,541.41,-148.74,5,CUST-1224,Phones
+CA-1774,2022-02-13,Furniture,East,468.19,,6,CUST-1663,Tables
+CA-1775,2022-02-14,Office Supplies,South,190.08,54.45,8,CUST-1530,Paper
+CA-1776,2022-02-15,Technology,South,361.78,-15.36,4,CUST-1145,Copiers
+CA-1777,2022-02-16,Furniture,South,462.32,266.46,7,CUST-1959,Chairs
+CA-1778,2022-02-17,Technology,Central,134.17,213.75,6,CUST-1240,Copiers
+CA-1779,2022-02-18,Furniture,East,259.58,148.6,2,CUST-1883,Tables
+CA-1780,2022-02-19,Furniture,West,618.31,157.16,8,CUST-1892,Tables
+CA-1781,2022-02-20,Furniture,West,748.88,30.86,9,CUST-1343,Bookcases
+CA-1782,2022-02-21,Office Supplies,East,998.43,260.5,5,CUST-1748,Paper
+CA-1783,2022-02-22,Office Supplies,Central,936.46,147.3,4,CUST-1034,Binders
+CA-1784,2022-02-23,Technology,Central,660.44,164.49,6,CUST-1701,Copiers
+CA-1785,2022-02-24,Furniture,South,450.19,230.85,8,CUST-1000,Chairs
+CA-1786,2022-02-25,Furniture,East,654.37,-62.96,3,CUST-1995,Chairs
+CA-1787,2022-02-26,Office Supplies,East,796.37,203.54,1,CUST-1152,Binders
+CA-1788,2022-02-27,Furniture,West,162.42,-102.38,4,CUST-1428,Bookcases
+CA-1789,2022-02-28,Office Supplies,East,439.41,-27.33,4,CUST-1944,Paper
+CA-1790,2022-03-01,Furniture,Central,847.81,-32.19,1,CUST-1507,Chairs
+CA-1791,2022-03-02,Technology,East,414.64,289.26,9,CUST-1125,Phones
+CA-1792,2022-03-03,Furniture,West,593.28,228.27,3,CUST-1490,Chairs
+CA-1793,2022-03-04,Furniture,South,608.38,150.58,5,CUST-1481,Tables
+CA-1794,2022-03-05,Office Supplies,West,225.25,163.53,6,CUST-1344,Paper
+CA-1795,2022-03-06,Furniture,West,394.12,81.04,8,CUST-1911,Bookcases
+CA-1796,2022-03-07,Furniture,South,367.79,273.55,6,CUST-1737,Tables
+CA-1797,2022-03-08,Office Supplies,West,74.89,48.13,3,CUST-1220,Labels
+CA-1798,2022-03-09,Technology,West,72.98,-9.74,6,CUST-1914,Copiers
+CA-1799,2022-03-10,Technology,East,840.11,-118.48,1,CUST-1918,Copiers
+CA-1800,2022-03-11,Office Supplies,East,309.42,193.1,4,CUST-1722,Labels
+CA-1801,2022-03-12,Office Supplies,South,542.17,167.22,6,CUST-1024,Labels
+CA-1802,2022-03-13,Office Supplies,East,333.79,-7.82,7,CUST-1527,Binders
+CA-1803,2022-03-14,Office Supplies,East,943.65,-187.4,3,CUST-1181,Paper
+CA-1804,2022-03-15,Office Supplies,West,296.33,219.5,9,CUST-1498,Binders
+CA-1805,2022-03-16,Technology,Central,458.17,-194.29,7,CUST-1840,Copiers
+CA-1806,2022-03-17,Technology,East,879.09,151.85,1,CUST-1640,Accessories
+CA-1807,2022-03-18,Office Supplies,Central,849.84,285.13,2,CUST-1041,Binders
+CA-1808,2022-03-19,Furniture,East,226.8,18.83,1,CUST-1914,Chairs
+CA-1809,2022-03-20,Office Supplies,East,812.51,-82.51,9,CUST-1480,Labels
+CA-1810,2022-03-21,Furniture,South,485.28,152.44,9,CUST-1929,Chairs
+CA-1811,2022-03-22,Office Supplies,South,508.82,208.56,7,CUST-1847,Binders
+CA-1812,2022-03-23,Office Supplies,South,176.81,73.22,3,CUST-1747,Binders
+CA-1813,2022-03-24,Technology,Central,126.57,283.52,5,CUST-1871,Phones
+CA-1814,2022-03-25,Furniture,West,741.54,-174.17,4,CUST-1438,Chairs
+CA-1815,2022-03-26,Furniture,East,521.64,52.4,7,CUST-1401,Bookcases
+CA-1816,2022-03-27,Technology,East,465.01,159.23,9,CUST-1545,Copiers
+CA-1817,2022-03-28,Technology,East,743.03,231.32,2,CUST-1344,Phones
+CA-1818,2022-03-29,Technology,Central,777.24,-110.37,8,CUST-1892,Copiers
+CA-1819,2022-03-30,Technology,South,200.96,200.0,9,CUST-1044,Copiers
+CA-1820,2022-03-31,Furniture,West,629.71,76.35,9,CUST-1645,Tables
+CA-1821,2022-04-01,Furniture,Central,178.59,-1.72,7,CUST-1020,Chairs
+CA-1822,2022-04-02,Office Supplies,South,,-134.14,9,CUST-1633,Labels
+CA-1823,2022-04-03,Office Supplies,Central,674.11,232.65,9,CUST-1069,Labels
+CA-1824,2022-04-04,Technology,West,958.78,-121.36,3,CUST-1863,Phones
+CA-1825,2022-04-05,Technology,South,115.51,-45.11,4,CUST-1872,Accessories
+CA-1826,2022-04-06,Technology,Central,104.2,-54.98,2,CUST-1047,Phones
+CA-1827,2022-04-07,Office Supplies,West,318.08,235.71,3,CUST-1490,Paper
+CA-1828,2022-04-08,Office Supplies,East,298.62,136.35,5,CUST-1550,Binders
+CA-1829,2022-04-09,Office Supplies,West,,198.34,5,CUST-1286,Binders
+CA-1830,2022-04-10,Office Supplies,East,910.94,-74.77,6,CUST-1009,Binders
+CA-1831,2022-04-11,Office Supplies,Central,287.07,112.44,7,CUST-1541,Binders
+CA-1832,2022-04-12,Office Supplies,South,308.35,85.87,7,CUST-1755,Paper
+CA-1833,2022-04-13,Office Supplies,South,771.43,216.42,1,CUST-1273,Paper
+CA-1834,2022-04-14,Technology,Central,477.25,253.04,2,CUST-1955,Copiers
+CA-1835,2022-04-15,Technology,South,787.88,-193.92,9,CUST-1599,Phones
+CA-1836,2022-04-16,Technology,South,112.1,137.01,2,CUST-1755,Accessories
+CA-1837,2022-04-17,Technology,East,513.19,-174.08,6,CUST-1380,Accessories
+CA-1838,2022-04-18,Office Supplies,Central,81.93,74.43,1,CUST-1328,Paper
+CA-1839,2022-04-19,Furniture,West,109.52,-56.18,3,CUST-1478,Chairs
+CA-1840,2022-04-20,Office Supplies,East,911.12,-46.61,2,CUST-1014,Labels
+CA-1841,2022-04-21,Furniture,Central,182.28,-23.52,3,CUST-1515,Tables
+CA-1842,2022-04-22,Technology,East,555.8,110.65,5,CUST-1190,Phones
+CA-1843,2022-04-23,Office Supplies,West,440.54,-32.98,6,CUST-1167,Paper
+CA-1844,2022-04-24,Technology,West,379.98,166.35,9,CUST-1520,Accessories
+CA-1845,2022-04-25,Office Supplies,Central,904.84,2.26,4,CUST-1620,Labels
+CA-1846,2022-04-26,Technology,West,70.73,-165.82,7,CUST-1136,Accessories
+CA-1847,2022-04-27,Furniture,East,680.6,191.88,6,CUST-1153,Tables
+CA-1848,2022-04-28,Furniture,West,965.22,-57.12,2,CUST-1387,Chairs
+CA-1849,2022-04-29,Furniture,East,582.16,16.38,8,CUST-1208,Chairs
+CA-1850,2022-04-30,Office Supplies,East,939.98,142.72,7,CUST-1271,Labels
+CA-1851,2022-05-01,Furniture,West,99.64,-33.77,7,CUST-1142,Chairs
+CA-1852,2022-05-02,Office Supplies,Central,447.85,-171.71,8,CUST-1610,Binders
+CA-1853,2022-05-03,Furniture,South,297.15,-13.04,1,CUST-1888,Bookcases
+CA-1854,2022-05-04,Furniture,West,744.28,272.22,1,CUST-1819,Tables
+CA-1855,2022-05-05,Office Supplies,East,982.23,120.87,8,CUST-1068,Labels
+CA-1856,2022-05-06,Office Supplies,East,293.7,135.74,4,CUST-1246,Binders
+CA-1857,2022-05-07,Furniture,West,671.47,116.14,5,CUST-1260,Bookcases
+CA-1858,2022-05-08,Office Supplies,Central,238.19,-100.5,8,CUST-1787,Paper
+CA-1859,2022-05-09,Furniture,Central,587.06,9.17,5,CUST-1078,Bookcases
+CA-1860,2022-05-10,Office Supplies,East,490.74,175.47,4,CUST-1657,Binders
+CA-1861,2022-05-11,Technology,East,973.41,-149.31,6,CUST-1622,Phones
+CA-1862,2022-05-12,Technology,Central,628.1,-61.07,5,CUST-1769,Copiers
+CA-1863,2022-05-13,Technology,South,382.03,-61.84,7,CUST-1604,Accessories
+CA-1864,2022-05-14,Technology,West,158.39,16.01,7,CUST-1524,Copiers
+CA-1865,2022-05-15,Technology,East,193.68,290.18,4,CUST-1771,Accessories
+CA-1866,2022-05-16,Furniture,East,264.05,-166.25,5,CUST-1937,Tables
+CA-1867,2022-05-17,Technology,Central,288.42,59.35,3,CUST-1620,Copiers
+CA-1868,2022-05-18,Technology,West,858.09,-110.32,4,CUST-1329,Accessories
+CA-1869,2022-05-19,Technology,Central,583.16,285.34,4,CUST-1188,Phones
+CA-1870,2022-05-20,Technology,West,547.22,-143.35,3,CUST-1094,Copiers
+CA-1871,2022-05-21,Office Supplies,West,159.03,1.8,5,CUST-1616,Paper
+CA-1872,2022-05-22,Furniture,West,867.13,168.94,5,CUST-1007,Chairs
+CA-1873,2022-05-23,Technology,East,736.67,152.28,7,CUST-1066,Copiers
+CA-1874,2022-05-24,Technology,South,114.28,11.36,4,CUST-1495,Phones
+CA-1875,2022-05-25,Technology,Central,722.44,-26.74,4,CUST-1190,Phones
+CA-1876,2022-05-26,Furniture,South,566.36,-1.19,9,CUST-1365,Chairs
+CA-1877,2022-05-27,Office Supplies,Central,127.64,-67.86,6,CUST-1767,Paper
+CA-1878,2022-05-28,Furniture,West,485.39,-97.33,4,CUST-1520,Bookcases
+CA-1879,2022-05-29,Office Supplies,East,510.46,41.52,2,CUST-1989,Labels
+CA-1880,2022-05-30,Technology,South,207.49,-65.73,6,CUST-1116,Accessories
+CA-1881,2022-05-31,Technology,East,948.41,-56.27,2,CUST-1266,Copiers
+CA-1882,2022-06-01,Furniture,Central,857.48,128.38,5,CUST-1610,Chairs
+CA-1883,2022-06-02,Furniture,East,685.57,284.27,6,CUST-1484,Bookcases
+CA-1884,2022-06-03,Office Supplies,East,489.18,101.82,4,CUST-1508,Paper
+CA-1885,2022-06-04,Office Supplies,South,441.18,-161.51,3,CUST-1297,Binders
+CA-1886,2022-06-05,Furniture,West,668.42,-162.21,7,CUST-1908,Tables
+CA-1887,2022-06-06,Office Supplies,East,568.16,275.71,2,CUST-1163,Binders
+CA-1888,2022-06-07,Furniture,West,109.16,-51.35,6,CUST-1375,Chairs
+CA-1889,2022-06-08,Office Supplies,Central,536.88,-153.97,4,CUST-1652,Labels
+CA-1890,2022-06-09,Furniture,East,816.08,99.52,6,CUST-1267,Chairs
+CA-1891,2022-06-10,Furniture,South,486.28,111.82,4,CUST-1548,Tables
+CA-1892,2022-06-11,Furniture,Central,99.36,124.25,4,CUST-1073,Bookcases
+CA-1893,2022-06-12,Office Supplies,Central,796.96,-66.3,4,CUST-1507,Paper
+CA-1894,2022-06-13,Office Supplies,South,241.3,-192.44,9,CUST-1072,Binders
+CA-1895,2022-06-14,Office Supplies,East,295.69,282.51,7,CUST-1307,Paper
+CA-1896,2022-06-15,Furniture,East,206.47,-74.55,3,CUST-1198,Tables
+CA-1897,2022-06-16,Office Supplies,Central,363.7,138.01,3,CUST-1129,Binders
+CA-1898,2022-06-17,Office Supplies,East,768.91,153.31,6,CUST-1757,Labels
+CA-1899,2022-06-18,Furniture,West,543.42,105.0,6,CUST-1823,Tables
+CA-1900,2022-06-19,Technology,South,244.64,-43.55,4,CUST-1571,Phones
+CA-1901,2022-06-20,Furniture,West,883.94,-64.45,9,CUST-1790,Bookcases
+CA-1902,2022-06-21,Office Supplies,East,885.6,98.83,4,CUST-1614,Labels
+CA-1903,2022-06-22,Furniture,Central,877.05,233.05,9,CUST-1807,Bookcases
+CA-1904,2022-06-23,Technology,South,276.86,273.37,4,CUST-1831,Accessories
+CA-1905,2022-06-24,Furniture,East,478.68,-147.05,2,CUST-1486,Tables
+CA-1906,2022-06-25,Office Supplies,East,985.74,-122.59,2,CUST-1852,Paper
+CA-1907,2022-06-26,Technology,Central,783.41,272.37,5,CUST-1150,Copiers
+CA-1908,2022-06-27,Office Supplies,Central,75.81,168.27,4,CUST-1668,Paper
+CA-1909,2022-06-28,Technology,West,111.94,241.5,7,CUST-1205,Phones
+CA-1910,2022-06-29,Technology,South,,-98.68,5,CUST-1985,Accessories
+CA-1911,2022-06-30,Furniture,South,913.76,93.79,6,CUST-1178,Tables
+CA-1912,2022-07-01,Furniture,Central,561.77,150.57,4,CUST-1196,Bookcases
+CA-1913,2022-07-02,Office Supplies,West,522.92,140.06,2,CUST-1734,Paper
+CA-1914,2022-07-03,Furniture,South,150.2,4.08,9,CUST-1088,Chairs
+CA-1915,2022-07-04,Furniture,Central,673.94,-192.3,7,CUST-1798,Bookcases
+CA-1916,2022-07-05,Technology,East,831.0,91.46,4,CUST-1433,Phones
+CA-1917,2022-07-06,Furniture,South,411.4,-73.45,3,CUST-1787,Bookcases
+CA-1918,2022-07-07,Technology,West,786.83,25.13,3,CUST-1747,Copiers
+CA-1919,2022-07-08,Technology,West,966.25,278.79,9,CUST-1182,Accessories
+CA-1920,2022-07-09,Technology,West,243.58,-0.48,5,CUST-1208,Phones
+CA-1921,2022-07-10,Office Supplies,East,547.16,219.9,3,CUST-1492,Labels
+CA-1922,2022-07-11,Office Supplies,South,322.78,-105.73,5,CUST-1129,Paper
+CA-1923,2022-07-12,Office Supplies,South,803.21,136.23,2,CUST-1664,Labels
+CA-1924,2022-07-13,Technology,East,598.71,288.5,4,CUST-1012,Copiers
+CA-1925,2022-07-14,Office Supplies,South,652.85,-149.05,2,CUST-1633,Labels
+CA-1926,2022-07-15,Office Supplies,East,808.02,-195.84,2,CUST-1870,Labels
+CA-1927,2022-07-16,Furniture,East,426.17,16.79,8,CUST-1731,Bookcases
+CA-1928,2022-07-17,Office Supplies,East,919.34,-153.69,1,CUST-1105,Labels
+CA-1929,2022-07-18,Office Supplies,West,556.38,174.19,7,CUST-1374,Paper
+CA-1930,2022-07-19,Technology,South,200.06,257.27,5,CUST-1581,Copiers
+CA-1931,2022-07-20,Technology,East,711.1,17.01,8,CUST-1706,Phones
+CA-1932,2022-07-21,Technology,South,803.6,-70.64,1,CUST-1697,Accessories
+CA-1933,2022-07-22,Technology,West,350.92,17.2,7,CUST-1098,Phones
+CA-1934,2022-07-23,Technology,East,864.32,161.72,5,CUST-1593,Copiers
+CA-1935,2022-07-24,Technology,Central,910.84,-195.47,4,CUST-1586,Phones
+CA-1936,2022-07-25,Office Supplies,West,313.06,94.73,7,CUST-1885,Labels
+CA-1937,2022-07-26,Technology,Central,984.35,106.65,2,CUST-1851,Copiers
+CA-1938,2022-07-27,Technology,South,183.68,118.84,1,CUST-1191,Accessories
+CA-1939,2022-07-28,Furniture,South,241.91,-78.99,1,CUST-1324,Tables
+CA-1940,2022-07-29,Office Supplies,West,225.01,157.03,1,CUST-1978,Labels
+CA-1941,2022-07-30,Office Supplies,South,899.29,-154.3,5,CUST-1725,Paper
+CA-1942,2022-07-31,Office Supplies,Central,671.58,-100.36,7,CUST-1826,Binders
+CA-1943,2022-08-01,Technology,East,194.5,238.74,2,CUST-1955,Accessories
+CA-1944,2022-08-02,Technology,East,468.31,169.36,8,CUST-1466,Accessories
+CA-1945,2022-08-03,Technology,East,634.53,-193.13,4,CUST-1893,Phones
+CA-1946,2022-08-04,Furniture,West,129.29,-75.81,3,CUST-1366,Tables
+CA-1947,2022-08-05,Technology,South,888.3,-92.8,8,CUST-1317,Copiers
+CA-1948,2022-08-06,Furniture,Central,813.42,-64.6,2,CUST-1143,Chairs
+CA-1949,2022-08-07,Office Supplies,South,529.95,-76.22,3,CUST-1383,Labels
+CA-1950,2022-08-08,Technology,South,968.77,,3,CUST-1215,Phones
+CA-1951,2022-08-09,Furniture,South,446.87,29.47,1,CUST-1360,Bookcases
+CA-1952,2022-08-10,Furniture,East,984.9,166.37,6,CUST-1323,Bookcases
+CA-1953,2022-08-11,Technology,Central,684.52,103.37,2,CUST-1014,Accessories
+CA-1954,2022-08-12,Office Supplies,Central,652.94,136.44,1,CUST-1216,Labels
+CA-1955,2022-08-13,Office Supplies,South,207.66,-159.43,2,CUST-1491,Paper
+CA-1956,2022-08-14,Office Supplies,East,887.83,275.75,6,CUST-1950,Binders
+CA-1957,2022-08-15,Furniture,East,456.12,219.25,4,CUST-1546,Bookcases
+CA-1958,2022-08-16,Furniture,Central,204.12,202.55,6,CUST-1182,Bookcases
+CA-1959,2022-08-17,Furniture,East,61.98,211.49,9,CUST-1269,Chairs
+CA-1960,2022-08-18,Furniture,East,,266.36,8,CUST-1944,Chairs
+CA-1961,2022-08-19,Office Supplies,East,551.03,72.13,1,CUST-1466,Labels
+CA-1962,2022-08-20,Technology,West,733.39,-99.86,8,CUST-1869,Phones
+CA-1963,2022-08-21,Furniture,South,895.75,108.39,9,CUST-1611,Tables
+CA-1964,2022-08-22,Furniture,Central,125.44,171.44,6,CUST-1518,Chairs
+CA-1965,2022-08-23,Office Supplies,Central,744.92,168.96,5,CUST-1541,Binders
+CA-1966,2022-08-24,Technology,West,228.04,60.72,6,CUST-1466,Copiers
+CA-1967,2022-08-25,Technology,South,865.27,-165.77,6,CUST-1304,Accessories
+CA-1968,2022-08-26,Office Supplies,Central,828.11,-14.44,9,CUST-1984,Binders
+CA-1969,2022-08-27,Office Supplies,East,563.75,260.38,4,CUST-1143,Paper
+CA-1970,2022-08-28,Technology,Central,724.73,92.22,2,CUST-1110,Accessories
+CA-1971,2022-08-29,Furniture,East,348.63,69.17,9,CUST-1231,Tables
+CA-1972,2022-08-30,Technology,West,497.61,-65.57,2,CUST-1690,Copiers
+CA-1973,2022-08-31,Office Supplies,East,830.56,-15.78,9,CUST-1583,Binders
+CA-1974,2022-09-01,Furniture,Central,486.3,247.67,2,CUST-1721,Bookcases
+CA-1975,2022-09-02,Furniture,Central,389.91,133.23,8,CUST-1731,Chairs
+CA-1976,2022-09-03,Office Supplies,Central,519.5,193.69,9,CUST-1591,Binders
+CA-1977,2022-09-04,Office Supplies,West,836.84,27.17,9,CUST-1499,Labels
+CA-1978,2022-09-05,Office Supplies,West,368.45,115.12,9,CUST-1594,Paper
+CA-1979,2022-09-06,Technology,South,215.07,-75.81,2,CUST-1553,Accessories
+CA-1980,2022-09-07,Technology,Central,726.41,152.73,4,CUST-1272,Phones
+CA-1981,2022-09-08,Furniture,East,834.68,13.8,7,CUST-1702,Bookcases
+CA-1982,2022-09-09,Office Supplies,West,145.61,21.27,2,CUST-1172,Paper
+CA-1983,2022-09-10,Furniture,Central,277.88,124.66,1,CUST-1972,Tables
+CA-1984,2022-09-11,Furniture,Central,184.87,268.14,3,CUST-1006,Chairs
+CA-1985,2022-09-12,Furniture,West,380.54,-168.0,4,CUST-1154,Chairs
+CA-1986,2022-09-13,Furniture,South,477.83,212.37,8,CUST-1521,Bookcases
+CA-1987,2022-09-14,Office Supplies,West,761.39,-53.81,6,CUST-1545,Binders
+CA-1988,2022-09-15,Furniture,West,668.59,21.96,2,CUST-1547,Tables
+CA-1989,2022-09-16,Office Supplies,East,639.88,-189.04,9,CUST-1920,Paper
+CA-1990,2022-09-17,Office Supplies,East,384.76,-49.48,2,CUST-1517,Paper
+CA-1991,2022-09-18,Technology,South,849.38,51.32,5,CUST-1919,Accessories
+CA-1992,2022-09-19,Office Supplies,Central,497.72,-171.91,4,CUST-1913,Labels
+CA-1993,2022-09-20,Technology,West,980.15,45.55,7,CUST-1214,Copiers
+CA-1994,2022-09-21,Office Supplies,South,652.44,263.56,8,CUST-1133,Binders
+CA-1995,2022-09-22,Office Supplies,East,169.95,-147.3,5,CUST-1284,Binders
+CA-1996,2022-09-23,Office Supplies,West,692.37,182.22,5,CUST-1125,Binders
+CA-1997,2022-09-24,Technology,Central,358.85,4.84,2,CUST-1920,Copiers
+CA-1998,2022-09-25,Technology,East,702.01,127.59,8,CUST-1438,Accessories
+CA-1999,2022-09-26,Furniture,East,116.16,-69.88,2,CUST-1848,Chairs
